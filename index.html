@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de Hanzi</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Header con barra de búsqueda -->
+        <header class="header">
+            <h1 class="title">
+                <i class="fas fa-search"></i>
+                Hanzi para no olvidar
+            </h1>
+            <div class="search-container">
+                <div class="search-wrapper">
+                    <input 
+                        type="text" 
+                        id="searchInput" 
+                        class="search-input" 
+                        placeholder="Ingresa un carácter chino simplificado..."
+                        autocomplete="off"
+                    >
+                    <button id="searchBtn" class="search-btn">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div>
+                <div id="errorMessage" class="error-message"></div>
+            </div>
+        </header>
+
+        <!-- Contenedor de la tarjeta -->
+        <main class="main-content">
+            <div id="cardContainer" class="card-container">
+                <div id="welcomeMessage" class="welcome-message">
+                    <i class="fas fa-language"></i>
+                    <h3>¡Bienvenido a Hanzi para no olvidar!</h3>
+                </div>
+                
+                <div id="hanziCard" class="hanzi-card hidden">
+                    <div class="card-header">
+                        <div class="hanzi-display">
+                            <div class="hanzi-simplified">
+                                <label>Simplificado</label>
+                                <span id="hanziSimplified"></span>
+                            </div>
+                            <div class="hanzi-traditional">
+                                <label>Tradicional</label>
+                                <span id="hanziTraditional"></span>
+                            </div>
+                        </div>
+                        <div class="hsk-badge">
+                            <span id="hskLevel"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="card-body">
+                        <div class="field-group">
+                            <div class="field">
+                                <i class="fas fa-volume-up field-icon"></i>
+                                <label>Pinyin</label>
+                                <span id="pinyin" class="field-value"></span>
+                            </div>
+                            
+                            <div class="field">
+                                <i class="fas fa-book field-icon"></i>
+                                <label>Significado</label>
+                                <span id="meaning" class="field-value"></span>
+                            </div>
+                        </div>
+                        
+                        <div class="mnemonic-section">
+                            <div class="mnemonic-field">
+                                <i class="fas fa-lightbulb field-icon"></i>
+                                <label>Mnemotécnica (Simplificado)</label>
+                                <p id="mnemonicSimplified" class="mnemonic-text"></p>
+                            </div>
+                            
+                            <div class="mnemonic-field">
+                                <i class="fas fa-brain field-icon"></i>
+                                <label>Mnemotécnica (Tradicional)</label>
+                                <p id="mnemonicTraditional" class="mnemonic-text"></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
