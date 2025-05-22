@@ -17,18 +17,24 @@
                 Hanzi para no olvidar
             </h1>
             <div class="search-container">
-                <div class="search-wrapper">
-                    <input 
-                        type="text" 
-                        id="searchInput" 
-                        class="search-input" 
-                        placeholder="Ingresa un carácter chino simplificado..."
-                        autocomplete="off"
-                    >
-                    <button id="searchBtn" class="search-btn">
-                        <i class="fas fa-search"></i>
-                    </button>
-                </div>
+                <form class="search-form" id="searchForm" autocomplete="off">
+                    <div class="search-wrapper">
+                        <input 
+                            type="search" 
+                            id="searchInput" 
+                            class="search-input" 
+                            placeholder="Ingresa un carácter chino simplificado..."
+                            autocomplete="off"
+                            autocorrect="off"
+                            autocapitalize="off"
+                            spellcheck="false"
+                            inputmode="text"
+                        >
+                        <button type="submit" id="searchBtn" class="search-btn" aria-label="Buscar">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </div>
+                </form>
                 <div id="errorMessage" class="error-message"></div>
             </div>
         </header>

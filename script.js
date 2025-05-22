@@ -1,3 +1,5 @@
+// script.js
+
 class HanziApp {
     constructor() {
         this.data = [];
@@ -8,6 +10,7 @@ class HanziApp {
 
     initializeElements() {
         // Elementos del DOM
+        this.searchForm = document.getElementById('searchForm');
         this.searchInput = document.getElementById('searchInput');
         this.searchBtn = document.getElementById('searchBtn');
         this.errorMessage = document.getElementById('errorMessage');
@@ -25,12 +28,34 @@ class HanziApp {
     }
 
     bindEvents() {
-        // Evento de búsqueda con botón
-        this.searchBtn.addEventListener('click', () => this.performSearch());
+        // Evento de formulario (funciona mejor en móviles)
+        this.searchForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            this.performSearch();
+        });
         
-        // Evento de búsqueda con Enter
+        // Evento de búsqueda con botón (múltiples eventos para compatibilidad)
+        this.searchBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            this.performSearch();
+        });
+        
+        // Eventos táctiles para móviles
+        this.searchBtn.addEventListener('touchstart', (e) => {
+            e.preventDefault();
+            this.searchBtn.style.transform = 'scale(0.95)';
+        });
+        
+        this.searchBtn.addEventListener('touchend', (e) => {
+            e.preventDefault();
+            this.searchBtn.style.transform = 'scale(1)';
+            this.performSearch();
+        });
+        
+        // Evento de búsqueda con Enter (respaldo)
         this.searchInput.addEventListener('keypress', (e) => {
             if (e.key === 'Enter') {
+                e.preventDefault();
                 this.performSearch();
             }
         });
@@ -40,10 +65,20 @@ class HanziApp {
             this.hideErrorMessage();
         });
 
-        // Prevenir envío del formulario
-        this.searchInput.addEventListener('keydown', (e) => {
-            if (e.key === 'Enter') {
-                e.preventDefault();
+        // Manejar eventos de enfoque en móviles
+        this.searchInput.addEventListener('focus', () => {
+            // Prevenir zoom en iOS
+            if (this.isIOS()) {
+                document.querySelector('meta[name=viewport]').setAttribute('content', 
+                    'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no');
+            }
+        });
+
+        this.searchInput.addEventListener('blur', () => {
+            // Restaurar zoom en iOS
+            if (this.isIOS()) {
+                document.querySelector('meta[name=viewport]').setAttribute('content', 
+                    'width=device-width, initial-scale=1');
             }
         });
     }
@@ -206,6 +241,16 @@ class HanziApp {
 
     hideErrorMessage() {
         this.errorMessage.classList.remove('show');
+    }
+
+    // Detectar si estamos en iOS
+    isIOS() {
+        return /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+    }
+
+    // Detectar si estamos en dispositivo móvil
+    isMobile() {
+        return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
     }
 }
 
