@@ -61,7 +61,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 小,小,xiǎo,pequeño,"Estas tres GOTAS, son las más PEQUEÑAS del mundo.","Estas tres GOTAS, son las más PEQUEÑAS del mundo.",1
 月,月,yuè,"luna, mes",Pictograma de la LUNA.,Pictograma de la LUNA.,1
 天,天,tiān,cielo,El TECHO más GRANDE es el CIELO.,El TECHO más GRANDE es el CIELO.,1
-工,工,gōng,,,,1
+工,工,gōng,"técnica, trabajo","Pictograma de una viga, representación de la TÉCNICA de construcción.","Pictograma de una viga, representación de la TÉCNICA de construcción.",1
 作,作,zuò,,,,1
 家,家,jiā,,,,1
 再,再,zài,,,,1
@@ -84,7 +84,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 起,起,qǐ,,,,1
 车,車,chē,,,,1
 非,非,fēi,,,,1
-常,常,cháng,,,,1
+常,常,cháng,habitual,Esta ESTIMADA TOALLA la usamos de manera HABITUAL.,Esta ESTIMADA TOALLA la usamos de manera HABITUAL.,1
 知,知,zhī,,,,1
 道,道,dào,,,,1
 手,手,shǒu,,,,1
@@ -97,7 +97,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 孩,孩,hái,,,,1
 子,子,zi,niño,Pictograma de un NIÑO semi envuelto en una bolsa para bebé.,Pictograma de un NIÑO semi envuelto en una bolsa para bebé.,1
 高,高,gāo,alto,Este EXTRATERRESTRE se ha puesto esta CHISTERA y exclamó por su BOCA sorprendido por verse más ALTO con ella puesta.,Este EXTRATERRESTRE se ha puesto esta CHISTERA y exclamó por su BOCA sorprendido por verse más ALTO con ella puesta.,1
-日,日,rì,,,,1
+日,日,rì,"día, sol","Pictograma del sol, el cual marca el transcurso de nuestros DÍAS.","Pictograma del sol, el cual marca el transcurso de nuestros DÍAS.",1
 觉,覺,jué,,,,1
 得,得,dé,,,,1
 吧,吧,ba,sugerencia,A través de mi BOCA expreso mis DESEOS y SUGERENCIAS.,A través de mi BOCA expreso mis DESEOS y SUGERENCIAS.,1
@@ -212,7 +212,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 歌,歌,gē,,,,1
 山,山,shān,,,,1
 热,熱,rè,,,,1
-唱,唱,chàng,,,,1
+唱,唱,chàng,cantar,Parece que hay dos SOLES en el cielo cuando esta BOCA está CANTANDO sus hermosas melodías.,Parece que hay dos SOLES en el cielo cuando esta BOCA está CANTANDO sus hermosas melodías.,1
 名,名,míng,,,,1
 白,白,bái,blanco,Los rayos de SOL son como GOTITAS de luz BLANCA.,Los rayos de SOL son como GOTITAS de luz BLANCA.,1
 病,病,bìng,enfermedad,Una ENFERMEDAD aunque sea de TERCERA CLASE no deja de ser una ENFERMEDAD al final.,Una ENFERMEDAD aunque sea de TERCERA CLASE no deja de ser una ENFERMEDAD al final.,1
@@ -220,7 +220,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 睡,睡,shuì,,,,1
 房,房,fáng,,,,1
 明,明,míng,,,,1
-差,差,chà,,,,1
+差,差,chà,diferencia,Es bien sabido que la TÉCNICA para obtener la lana de OVEJA entre un esquilador y otro puede presentar una gran DIFERENCIA.,Es bien sabido que la TÉCNICA para obtener la lana de OVEJA entre un esquilador y otro puede presentar una gran DIFERENCIA.,1
 风,風,fēng,,,,1
 马,馬,mǎ,,,,1
 错,錯,cuò,,,,1
@@ -268,7 +268,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 贵,貴,guì,,,,1
 面,面麵,miàn,,,,1
 哥,哥,gē,,,,1
-茶,茶,chá,,,,1
+茶,茶,chá,te,Estos ÁRBOLES con PARAGUAS son para proteger las FLORES del TÉ en esta plantación.,Estos ÁRBOLES con PARAGUAS son para proteger las FLORES del TÉ en esta plantación.,1
 慢,慢,màn,,,,1
 星,星,xīng,,,,1
 期,期,qī,,,,1
@@ -598,7 +598,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 饺,餃,jiǎo,,,,2
 典,典,diǎn,,,,2
 板,板闆,bǎn,,,,2
-王,王,wáng,,,,2
+王,王,wáng,rey,Pictograma del cetro de un REY.,Pictograma del cetro de un REY.,2
 被,被,bèi,,,,3
 把,把,bǎ,,,,3
 并,並併,bìng,,,,3
@@ -857,7 +857,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 石,石,shí,,,,3
 浪,浪,làng,,,,3
 缺,缺,quē,,,,3
-羊,羊,yáng,,,,3
+羊,羊,yáng,oveja,"Esta REINA de la belleza, con CUERNOS y un BASTÓN es la OVEJA.","Esta REINA de la belleza, con CUERNOS y un BASTÓN es la OVEJA.",3
 搬,搬,bān,,,,3
 齐,齊,qí,,,,3
 啤,啤,pí,,,,3
@@ -1182,7 +1182,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 耳,耳,ěr,,,,4
 咸,咸鹹,xián,,,,4
 尾,尾,wěi,,,,4
-尚,尚,shàng,,,,4
+尚,尚,shàng,estimado,Este PEQUEÑO EXTRATERRESTRE es muy ESTIMADO en su comunidad.,Este PEQUEÑO EXTRATERRESTRE es muy ESTIMADO en su comunidad.,4
 赏,賞,shǎng,,,,4
 劲,勁,jìn,,,,4
 袜,襪,wà,,,,4
