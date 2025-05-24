@@ -44,7 +44,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 下,下,xià,,,,1
 做,做,zuò,,,,1
 等,等,děng,,,,1
-三,三,sān,,,,1
+三,三,sān,tres,En la escritura china y japonesa el número TRES se representa con tres trazos horizontales.,En la escritura china y japonesa el número TRES se representa con tres trazos horizontales.,1
 里,里裡,lǐ,,,,1
 过,過,guò,,,,1
 那,那,nà,,,,1
@@ -75,22 +75,22 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 走,走,zǒu,,,,1
 太,太,tài,,,,1
 找,找,zhǎo,,,,1
-四,四,sì,,,,1
+四,四,sì,cuatro,"Curiosamente, esta BOCA dice que sus PIERNAS son CUATRO.","Curiosamente, esta BOCA dice que sus PIERNAS son CUATRO.",1
 几,幾几,jǐ,,,,1
 本,本,běn,libro,UN solo trozo de ÁRBOL puede crear un LIBRO entero.,UN solo trozo de ÁRBOL puede crear un LIBRO entero.,1
 打,打,dǎ,,,,1
 呢,呢,ne,,,,1
 事,事,shì,,,,1
 起,起,qǐ,,,,1
-车,車,chē,,,,1
+车,車,chē,vehículo,"En UN arrozal gané suficiente para comprar DIEZ más DIEZ, es decir, veinte VEHÍCULOS.","En un ARROZAL gané suficiente para comprar DIEZ más DIEZ, es decir, veinte VEHÍCULOS.",1
 非,非,fēi,,,,1
 常,常,cháng,habitual,Esta ESTIMADA TOALLA la usamos de manera HABITUAL.,Esta ESTIMADA TOALLA la usamos de manera HABITUAL.,1
 知,知,zhī,,,,1
 道,道,dào,,,,1
 手,手,shǒu,,,,1
 今,今,jīn,,,,1
-五,五,wǔ,,,,1
-二,二,èr,,,,1
+五,五,wǔ,cinco,"Tanto LLAVES, como BASTONES, no podemos tener UNO, necesitamos CINCO.","Tanto LLAVES, como BASTONES, no podemos tener UNO, necesitamos CINCO.",1
+二,二,èr,dos,En la escritura china y japonesa el número DOS se representa con dos trazos horizontales.,En la escritura china y japonesa el número DOS se representa con dos trazos horizontales.,1
 吗,嗎,ma,,,,1
 真,真,zhēn,,,,1
 跟,跟,gēn,,,,1
@@ -123,7 +123,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 方,方,fāng,,,,1
 十,十,shí,diez,"En la escritura china y japonesa, el número DIEZ se representa con un trazo horizontal y otro vertical, en forma de cruz.","En la escritura china y japonesa, el número DIEZ se representa con un trazo horizontal y otro vertical, en forma de cruz.",1
 见,見,jiàn,,,,1
-六,六,liù,,,,1
+六,六,liù,seis,"Entre mis dos CHISTERAS y las cuatro PATAS de la silla que tengo en mi habitación, sumo SEIS.","Entre mis dos CHISTERAS y las cuatro PATAS de la silla que tengo en mi habitación, sumo SEIS.",1
 问,問,wèn,,,,1
 叫,叫,jiào,,,,1
 回,回迴,huí,,,,1
@@ -139,7 +139,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 机,機,jī,,,,1
 电,電,diàn,,,,1
 行,行,xíng,,,,1
-朋,朋,péng,,,,1
+朋,朋,péng,compañía,Estas dos LUNAS son COMPAÑERAS.,Estas dos LUNAS son COMPAÑERAS.,1
 友,友,yǒu,amistad,"Aquella persona que está OTRA VEZ y otra vez A TU LADO, es una gran AMISTAD.","Aquella persona que está OTRA VEZ y otra vez A TU LADO, es una gran AMISTAD.",1
 拿,拿,ná,,,,1
 路,路,lù,,,,1
@@ -160,7 +160,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 生,生,shēng,,,,1
 门,門,mén,,,,1
 八,八,bā,ocho,"El carácter de OCHO está formado por una línea corta seguida por otra línea un poco más larga, inclinada hacia la primera pero sin llegar a tocarla.","El carácter de OCHO está formado por una línea corta seguida por otra línea un poco más larga, inclinada hacia la primera pero sin llegar a tocarla.",1
-七,七,qī,,,,1
+七,七,qī,siete,"A la hora de ir a pescar, no llevo UN sólo ANZUELO, sino que llevo SIETE.","A la hora de ir a pescar, no llevo UN sólo ANZUELO, sino que llevo SIETE.",1
 送,送,sòng,,,,1
 花,花,huā,,,,1
 第,第,dì,,,,1
@@ -187,12 +187,12 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 识,識,shí,,,,1
 难,難,nán,,,,1
 球,球,qiú,,,,1
-九,九,jiǔ,,,,1
+九,九,jiǔ,nueve,"A la hora de ir a pescar, no llevo UN sólo ANZUELO y BASTÓN, llevo NUEVE.","A la hora de ir a pescar, no llevo UN sólo ANZUELO y BASTÓN, llevo NUEVE.",1
 妈,媽,mā,,,,1
 汽,汽,qì,,,,1
 跑,跑,pǎo,,,,1
 动,動,dòng,,,,1
-儿,兒,ér,,,,1
+儿,兒,ér,hijo,Pictograma de las piernas de un HIJO.,-,1
 远,遠,yuǎn,,,,1
 帮,幫,bāng,ayudar,Nuestra NACIÓN es como una TOALLA que nos AYUDA.,-,1
 视,視,shì,,,,1
@@ -209,7 +209,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 哪,哪,nǎ,,,,1
 包,包,bāo,paquete,En invierno YO estoy EMPAQUETADO en un PAQUETE que es mi cama.,En invierno YO estoy EMPAQUETADO en un PAQUETE que es mi cama.,1
 脑,腦,nǎo,,,,1
-歌,歌,gē,,,,1
+歌,歌,gē,canción,Todos BOSTEZAN cuando este HERMANO MAYOR CANTA.,Todos BOSTEZAN cuando este HERMANO MAYOR CANTA.,1
 山,山,shān,,,,1
 热,熱,rè,,,,1
 唱,唱,chàng,cantar,Parece que hay dos SOLES en el cielo cuando esta BOCA está CANTANDO sus hermosas melodías.,Parece que hay dos SOLES en el cielo cuando esta BOCA está CANTANDO sus hermosas melodías.,1
@@ -219,7 +219,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 票,票,piào,,,,1
 睡,睡,shuì,,,,1
 房,房,fáng,,,,1
-明,明,míng,,,,1
+明,明,míng,claro,"El SOL en el día, y la LUNA en la noche nos brindan CLARIDAD.","El SOL en el día, y la LUNA en la noche nos brindan CLARIDAD.",1
 差,差,chà,diferencia,Es bien sabido que la TÉCNICA para obtener la lana de OVEJA entre un esquilador y otro puede presentar una gran DIFERENCIA.,Es bien sabido que la TÉCNICA para obtener la lana de OVEJA entre un esquilador y otro puede presentar una gran DIFERENCIA.,1
 风,風,fēng,,,,1
 马,馬,mǎ,,,,1
@@ -267,7 +267,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 页,頁,yè,,,,1
 贵,貴,guì,,,,1
 面,面麵,miàn,,,,1
-哥,哥,gē,,,,1
+哥,哥,gē,hermano mayor,Todo es POSIBLE y nuevamente POSIBLE para este HERMANO MAYOR.,Todo es POSIBLE y nuevamente POSIBLE para este HERMANO MAYOR.,1
 茶,茶,chá,te,Estos ÁRBOLES con PARAGUAS son para proteger las FLORES del TÉ en esta plantación.,Estos ÁRBOLES con PARAGUAS son para proteger las FLORES del TÉ en esta plantación.,1
 慢,慢,màn,,,,1
 星,星,xīng,,,,1
@@ -303,7 +303,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 自,自,zì,,,,2
 己,己,jǐ,yo,Pictograma que representa el YO.,Pictograma que representa el YO.,2
 但,但,dàn,,,,2
-可,可,kě,,,,2
+可,可,kě,posible,"Imagina un tiburón que tiene CLAVOS en su BOCA, todo es POSIBLE para él.","Imagina un tiburón que tiene CLAVOS en su BOCA, todo es POSIBLE para él.",2
 以,以,yǐ,,,,2
 让,讓,ràng,,,,2
 又,又,yòu,otra vez,"NO o varios BRAZOS, OTRA VEZ nos ayudarán.","NO o varios BRAZOS, OTRA VEZ nos ayudarán.",2
@@ -458,7 +458,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 级,級,jí,,,,2
 狗,狗,gǒu,,,,2
 节,節,jié,,,,2
-目,目,mù,,,,2
+目,目,mù,ojo,Pictograma de un OJO.,Pictograma de un OJO.,2
 睛,睛,jīng,,,,2
 满,滿,mǎn,,,,2
 酒,酒,jiǔ,,,,2
@@ -822,7 +822,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 退,退,tuì,,,,3
 猪,豬,zhū,,,,3
 似,似,shì,,,,3
-古,古,gǔ,,,,3
+古,古,gǔ,viejo,Esta BOCA ya tiene una CRUZ porque es muy VIEJA.,Esta BOCA ya tiene una CRUZ porque es muy VIEJA.,3
 厂,厂廠,chǎng,,,,3
 农,農,nóng,,,,3
 舞,舞,wǔ,,,,3
@@ -884,7 +884,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 沙,沙,shā,,,,3
 华,華,huá,,,,3
 币,幣,bì,,,,3
-冒,冒,mào,,,,3
+冒,冒,mào,riesgo,Mirar el SOL directamente con los OJOS es un gran RIESGO.,Mirar el SOL directamente con los OJOS es un gran RIESGO.,3
 李,李,lǐ,,,,3
 裤,褲,kù,,,,3
 牌,牌,pái,,,,3
@@ -1296,7 +1296,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 乘,乘,chéng,,,,5
 润,潤,rùn,,,,5
 骂,罵,mà,,,,5
-欠,欠,qiàn,,,,5
+欠,欠,qiàn,"carencia, bostezo","Pictograma de una persona bostezando, indicando la CARENCIA de sueño.","Pictograma de una persona bostezando, indicando la CARENCIA de sueño.",5
 漫,漫,màn,,,,5
 厉,厲,lì,,,,5
 私,私,sī,,,,5
@@ -1435,7 +1435,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 闯,闖,chuǎng,,,,5
 犹,猶,yóu,,,,5
 豫,豫,yù,,,,5
-乙,乙,yǐ,,,,5
+乙,乙,yǐ,"anzuelo, segundo",Pictograma de un ANZUELO.,Pictograma de un ANZUELO.,5
 煤,煤,méi,carbón,Para ALGÚN FUEGO se utilizará este CARBÓN.,Para ALGÚN FUEGO se utilizará este CARBÓN.,5
 饼,餅,bǐng,,,,5
 伸,伸,shēn,,,,5
@@ -1501,7 +1501,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 虚,虛,xū,,,,5
 股,股,gǔ,,,,6
 啦,啦,la,,,,6
-亡,亡,wáng,"desaparecer, fallecer",Aquí vemos una CHISTERA colgada de un ANZUELO en la pared como homenaje a nuestro querido familiar amante de la pesca que acaba de DESAPARECER y pasar a mejor vida.,Aquí vemos una CHISTERA colgada de un ANZUELO en la pared como homenaje a nuestro querido familiar amante de la pesca que acaba de DESAPARECER y pasar a mejor vida.,6
+亡,亡,wáng,"desaparecer, fallecer",Esta CHISTERA y ANZUELO acaban de DESAPARECER.,Esta CHISTERA y ANZUELO acaban de DESAPARECER.,6
 副,副,fù,,,,6
 若,若,ruò,,,,6
 策,策,cè,,,,6
@@ -1556,7 +1556,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 搭,搭,dā,,,,6
 氛,氛,fēn,,,,6
 泡,泡,pào,,,,6
-田,田,tián,,,,6
+田,田,tián,arrozal,Pictograma de un ARROZAL dividido en cuatro partes y visto desde el aire.,Pictograma de un ARROZAL dividido en cuatro partes y visto desde el aire.,6
 税,稅,shuì,,,,6
 侧,側,cè,,,,6
 遭,遭,zāo,,,,6
@@ -3001,3 +3001,4 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 曹,曹,cáo,,,,9
 巳,巳,sì,serpiente,YO con un BASTÓN aparto a la SERPIENTE de mi camino.,YO con un BASTÓN aparto a la SERPIENTE de mi camino.,-
 匕,匕,bǐ,cuchara,Pictograma de una CUCHARA.,Pictograma de una CUCHARA.,-
+吾,吾,wú,yo,"Nuestros CINCO sentidos son nuestras BOCAS hacia el mundo, y equivalen a un YO.","Nuestros CINCO sentidos son nuestras BOCAS hacia el mundo, y equivalen a un YO.",-
