@@ -1,9 +1,9 @@
 hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_traditional,hsk
 的,的,de,diana,"En esta extraña feria, hay un CUCHARÓN BLANCO que sirve como DIANA, al cual hay que apuntar para ganar un premio.","En esta extraña feria, hay un CUCHARÓN BLANCO que sirve como DIANA, al cual hay que apuntar para ganar un premio.",1
-了,了瞭,le,,,,1
-在,在,zài,,,,1
-是,是,shì,,,,1
-我,我,wǒ,,,,1
+了,了瞭,le,completar,Este NIÑO está COMPLETAMENTE envuelto en su bolsa para bebé.,Este NIÑO está COMPLETAMENTE envuelto en su bolsa para bebé.,1
+在,在,zài,existir,Sólo un TALENTOSO elige bien la TIERRA en la cual va a EXISTIR.,Sólo un TALENTOSO elige bien la TIERRA en la cual va a EXISTIR.,1
+是,是,shì,"correcto, ser",El DÍA CORRECTO siempre va a ser CORRECTO.,El DÍA CORRECTO siempre va a ser CORRECTO.,1
+我,我,wǒ,yo,Con la MANO una LANZA lanzo YO.,Con la MANO una LANZA lanzo YO.,1
 一,一,yī,uno,En la escritura china y japonesa el número UNO se representa con un trazo horizontal.,En la escritura china y japonesa el número UNO se representa con un trazo horizontal.,1
 有,有,yǒu,,,,1
 他,他,tā,,,,1
@@ -72,11 +72,11 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 候,候,hòu,,,,1
 些,些,xiē,,,,1
 比,比,bǐ,comparar,"Con dos CUCHARAS, una en cada mano, estás COMPARANDO la comida de tu madre con la de tu suegra. Y las comparaciones nunca fueron buenas.","Con dos CUCHARAS, una en cada mano, estás COMPARANDO la comida de tu madre con la de tu suegra. Y las comparaciones nunca fueron buenas.",1
-走,走,zǒu,,,,1
+走,走,zǒu,"caminar, correr",En este TERRENO de manera CORRECTA corremos y CAMINAMOS.,En este TERRENO de manera CORRECTA corremos y CAMINAMOS.,1
 太,太,tài,,,,1
 找,找,zhǎo,,,,1
 四,四,sì,cuatro,"Curiosamente, esta BOCA dice que sus PIERNAS son CUATRO.","Curiosamente, esta BOCA dice que sus PIERNAS son CUATRO.",1
-几,幾几,jǐ,,,,1
+几,幾几,jǐ,"mesa, cuánto",Pictograma de una MESA para contar cuántos documentos tenemos.,Esta PERSONA tiene LANZAS y CAPULLOS y en su mesa cuenta CUÁNTOS.,1
 本,本,běn,libro,UN solo trozo de ÁRBOL puede crear un LIBRO entero.,UN solo trozo de ÁRBOL puede crear un LIBRO entero.,1
 打,打,dǎ,,,,1
 呢,呢,ne,,,,1
@@ -103,7 +103,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 吧,吧,ba,sugerencia,A través de mi BOCA expreso mis DESEOS y SUGERENCIAS.,A través de mi BOCA expreso mis DESEOS y SUGERENCIAS.,1
 话,話,huà,,,,1
 钱,錢,qián,,,,1
-开,開,kāi,,,,1
+开,開,kāi,abrir,Con UNA o con las DOS MANOS ABRIMOS lo que sea.,Con UNA o con las DOS MANOS ABRIMOS lo que sea.,1
 岁,歲,suì,,,,1
 吃,吃,chī,,,,1
 身,身,shēn,,,,1
@@ -127,7 +127,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 问,問,wèn,,,,1
 叫,叫,jiào,,,,1
 回,回迴,huí,,,,1
-正,正,zhèng,,,,1
+正,正,zhèng,correcto,DETENERSE UNA o las veces necesarias a pensar es lo CORRECTO.,DETENERSE UNA o las veces necesarias a pensar es lo CORRECTO.,1
 快,快,kuài,,,,1
 住,住,zhù,,,,1
 请,請,qǐng,,,,1
@@ -318,7 +318,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 向,嚮向,xiàng,,,,2
 该,該,gāi,,,,2
 位,位,wèi,,,,2
-才,纔才,cái,,,,2
+才,纔才,cái,talento,Estos DEDOS poseen un gran TALENTO.,Estos DEDOS poseen un gran TALENTO.,2
 当,噹當,dāng,,,,2
 所,所,suǒ,,,,2
 公,公,gōng,,,,2
@@ -332,7 +332,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 直,直,zhí,,,,2
 定,定,dìng,,,,2
 带,帶,dài,,,,2
-或,或,huò,,,,2
+或,或,huò,o,"UNA LANZA, una BOCA, O algo más, no sabemos qué es más poderoso.","UNA LANZA, una BOCA, O algo más, no sabemos qué es más poderoso.",2
 长,長,zhǎng,,,,2
 而,而,ér,,,,2
 且,且,qiě,,,,2
@@ -767,7 +767,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 布,布,bù,,,,3
 乱,亂,luàn,,,,3
 创,創,chuàng,,,,3
-足,足,zú,,,,3
+足,足,zú,"pie, suficiente",Acomodamos de manera CORRECTA la BOCA de nuestro calzado para tener cómodo nuestro PIE.,Acomodamos de manera CORRECTA la BOCA de nuestro calzado para tener cómodo nuestro PIE.,3
 形,形,xíng,forma,"Cuando deseamos una FORMA específica , con las DOS MANOS le damos aquella FORMA al objeto.","Cuando deseamos una FORMA específica , con las DOS MANOS le damos aquella FORMA al objeto.",3
 初,初,chū,,,,3
 破,破,pò,,,,3
@@ -809,7 +809,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 评,評,píng,,,,3
 输,輸,shū,,,,3
 伟,偉,wěi,,,,3
-止,止,zhǐ,,,,3
+止,止,zhǐ,detenerse,Interpretaremos este carácter como el pictograma de una huella de un pie que estuvo DETENIDO.,Interpretaremos este carácter como el pictograma de una huella de un pie que estuvo DETENIDO.,3
 修,脩修,xiū,,,,3
 配,配,pèi,,,,3
 武,武,wǔ,,,,3
@@ -834,7 +834,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 害,害,hài,,,,3
 烟,煙,yān,,,,3
 族,族,zú,,,,3
-土,土,tǔ,,,,3
+土,土,tǔ,tierra,De seguro muchos más de DIEZ tipos de SUELOS podemos encontrar si exploramos diferentes TIERRAS lejanas.,De seguro muchos más de DIEZ tipos de SUELOS podemos encontrar si exploramos diferentes TIERRAS lejanas.,3
 互,互,hù,,,,3
 据,據,jù,,,,3
 卫,衛,wèi,,,,3
@@ -1042,7 +1042,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 卷,卷捲,juǎn,,,,4
 译,譯,yì,,,,4
 映,映,yìng,,,,4
-贝,貝,bèi,,,,4
+贝,貝,bèi,almeja,"Con un sólo OJO, y sus PATITAS corriendo, va dando un susto a los bañistas esta ALMEJA.","Con un sólo OJO, y sus PATITAS corriendo, va dando un susto a los bañistas esta ALMEJA.",4
 逐,逐,zhú,,,,4
 渐,漸,jiàn,,,,4
 编,編,biān,,,,4
@@ -1201,7 +1201,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 雷,雷,léi,,,,4
 唯,唯,wéi,,,,5
 织,織,zhī,,,,5
-肯,肯,kěn,,,,5
+肯,肯,kěn,acuerdo,Nos DETENEMOS a mirar la LUNA antes de tomar un ACUERDO.,Nos DETENEMOS a mirar la LUNA antes de tomar un ACUERDO.,5
 搞,搞,gǎo,,,,5
 控,控,kòng,,,,5
 拥,擁,yōng,,,,5
@@ -1233,7 +1233,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 摄,攝,shè,,,,5
 掌,掌,zhǎng,,,,5
 龄,齡,líng,,,,5
-域,域,yù,,,,5
+域,域,yù,región,Aquí vemos toda esta TIERRA O al menos toda esta REGIÓN.,Aquí vemos toda esta TIERRA O al menos toda esta REGIÓN.,5
 触,觸,chù,,,,5
 邀,邀,yāo,,,,5
 俱,俱,jù,,,,5
@@ -1424,7 +1424,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 仿,彷仿,fǎng,,,,5
 扶,扶,fú,,,,5
 漏,漏,lòu,,,,5
-戒,戒,jiè,,,,5
+戒,戒,jiè,abstenerce,Tomo la LANZA con las DOS MANOS y me ABSTENGO de lanzarla,Tomo la LANZA con las DOS MANOS y me ABSTENGO de lanzarla,5
 豪,豪,háo,,,,5
 敬,敬,jìng,,,,5
 钢,鋼,gāng,,,,5
@@ -1865,13 +1865,13 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 携,攜,xié,,,,7
 剂,劑,jì,,,,7
 惹,惹,rě,,,,7
-贼,賊,zéi,,,,7
+贼,賊,zéi,bandido,Con DIEZ LANZAS roba estas ALMEJAS este BANDIDO.,Con DIEZ LANZAS roba estas ALMEJAS este BANDIDO.,7
 唉,唉,āi,,,,7
 涂,塗,tú,,,,7
 厦,廈,shà,,,,7
 蛮,蠻,mán,,,,7
 诱,誘,yòu,,,,7
-惑,惑,huò,,,,7
+惑,惑,huò,engaño,En el CORAZÓN o en la cabeza se producen los ENGAÑOS.,En el CORAZÓN o en la cabeza se producen los ENGAÑOS.,7
 哎,哎,āi,,,,7
 逮,逮,dǎi,,,,7
 趁,趁,chèn,,,,7
@@ -2222,7 +2222,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 摊,攤,tān,,,,8
 馨,馨,xīn,,,,8
 壳,殼,ké,,,,8
-伐,伐,fá,,,,8
+伐,伐,fá,talar,Esta PERSONA con una LANZA TALA este árbol.,Esta PERSONA con una LANZA TALA este árbol.,8
 厢,廂,xiāng,,,,8
 碌,碌,lù,,,,8
 棋,棋,qí,,,,8
@@ -2903,7 +2903,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 脊,脊,jí,,,,9
 翠,翠,cuì,,,,9
 灼,灼,zhuó,,,,9
-戈,戈,gē,,,,9
+戈,戈,gē,lanza,Este BASTÓN con punta de FLECHA es una LANZA.,Este BASTÓN con punta de FLECHA es una LANZA.,9
 逞,逞,chěng,,,,9
 碧,碧,bì,,,,9
 呜,嗚,wū,,,,9
