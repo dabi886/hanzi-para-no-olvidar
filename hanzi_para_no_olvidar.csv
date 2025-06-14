@@ -5,7 +5,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 是,是,shì,"correcto, ser",El DÍA CORRECTO siempre va a ser CORRECTO.,El DÍA CORRECTO siempre va a ser CORRECTO.,1
 我,我,wǒ,yo,Con la MANO una LANZA lanzo YO.,Con la MANO una LANZA lanzo YO.,1
 一,一,yī,uno,En la escritura china y japonesa el número UNO se representa con un trazo horizontal.,En la escritura china y japonesa el número UNO se representa con un trazo horizontal.,1
-有,有,yǒu,,,,1
+有,有,yǒu,"tener, haber",Esta persona con CARNE a su LADO la TIENE para la cena.,Esta persona con CARNE a su LADO la TIENE para la cena.,1
 他,他,tā,,,,1
 这,這,zhè,,,,1
 个,個,gè,,,,1
@@ -297,7 +297,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 汉,漢,hàn,,,,1
 客,客,kè,invitado,"En esta hospitalaria CASA, CADA UNO de los INVITADOS es bienvenido.","En esta hospitalaria CASA, CADA UNO de los INVITADOS es bienvenido.",1
 渴,渴,kě,,,,1
-米,米,mǐ,,,,1
+米,米,mǐ,arroz,Pictograma de unos granos de ARROZ.,Pictograma de unos granos de ARROZ.,1
 条,條,tiáo,,,,1
 为,為,wèi,,,,2
 自,自,zì,,,,2
@@ -365,7 +365,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 使,使,shǐ,,,,2
 接,接,jiē,,,,2
 受,受,shòu,,,,2
-拉,拉,lā,,,,2
+拉,拉,lā,tirar,PARADO con nuestras MANOS TIRAMOS esta puerta para abrirla.,PARADO con nuestras MANOS TIRAMOS esta puerta para abrirla.,2
 周,周週,zhōu,,,,2
 特,特,tè,,,,2
 部,部,bù,,,,2
@@ -398,7 +398,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 辆,輛,liàng,,,,2
 克,克剋,kè,,,,2
 庭,庭,tíng,,,,2
-音,音,yīn,,,,2
+音,音,yīn,sonido,Esta persona está DE PIE todo el DÍA ejecutando los más diversos SONIDOS.,Esta persona está DE PIE todo el DÍA ejecutando los más diversos SONIDOS.,2
 乐,樂,lè,,,,2
 交,交,jiāo,,,,2
 离,离離,lí,,,,2
@@ -525,7 +525,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 养,養,yǎng,,,,2
 鞋,鞋,xié,,,,2
 急,急,jí,,,,2
-瓶,瓶,píng,,,,2
+瓶,瓶,píng,botella,Con esta FILA de TEJAS hacemos una BOTELLA.,Con esta FILA de TEJAS hacemos una BOTELLA.,2
 观,觀,guān,,,,2
 鸟,鳥,niǎo,,,,2
 墙,牆,qiáng,,,,2
@@ -565,7 +565,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 夏,夏,xià,,,,2
 例,例,lì,,,,2
 疼,疼,téng,,,,2
-复,復複,fù,,,,2
+复,復複,fù,"replegar, restaurar",Hacia donde los soldados puedan RECLINARSE y descansar sus PIERNAS ANDANTES luego de un DÍA de combate nos REPLEGAMOS.,Hacia donde los soldados puedan RECLINARSE y descansar sus PIERNAS ANDANTES luego de un DÍA de combate nos REPLEGAMOS.,2
 晨,晨,chén,,,,2
 碗,碗,wǎn,,,,2
 碰,碰,pèng,,,,2
@@ -601,7 +601,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 王,王,wáng,rey,Pictograma del cetro de un REY.,Pictograma del cetro de un REY.,2
 被,被,bèi,,,,3
 把,把,bǎ,,,,3
-并,並併,bìng,,,,3
+并,並併,bìng,fila,ABRIMOS los CUERNOS para ponerlos en una FILA.,Pictograma de una FILA.,3
 始,始,shǐ,,,,3
 极,極,jí,,,,3
 种,種,zhǒng,,,,3
@@ -703,8 +703,8 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 首,首,shǒu,,,,3
 母,母,mǔ,,,,3
 化,化,huà,,,,3
-立,立,lì,,,,3
-产,產,chǎn,,,,3
+立,立,lì,parado,"Pictograma de una persona en postura vertical, es decir, PARADO.","Pictograma de una persona en postura vertical, es decir, PARADO.",3
+产,產,chǎn,producción,"Estoy PARADO en este PRECIPICIO, arriesgando la vida por la PRODUCCIÓN.","Estoy PARADO en este PRECIPICIO, arriesgando la VIDA por la PRODUCCIÓN.",3
 光,光,guāng,,,,3
 派,派,pài,,,,3
 负,負,fù,,,,3
@@ -753,7 +753,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 演,演,yǎn,,,,3
 挂,掛,guà,,,,3
 群,群,qún,,,,3
-龙,龍,lóng,,,,3
+龙,龍,lóng,dragón,Hay SIETE GOTAS de fuego a cada LADO de este DRAGÓN.,PARADO bajo la LUNA lanza TRES ANZUELOS de fuego como si fueran LAZOS este  DRAGÓN.,3
 资,資,zī,,,,3
 丽,麗,lì,,,,3
 跳,跳,tiào,,,,3
@@ -778,7 +778,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 追,追,zhuī,,,,3
 积,積,jī,,,,3
 架,架,jià,,,,3
-章,章,zhāng,,,,3
+章,章,zhāng,insignia,Esta persona está TEMPRANO PARADO con su INSIGNIA.,Esta persona está TEMPRANO PARADO con su INSIGNIA.,3
 村,村,cūn,,,,3
 彩,彩,cǎi,,,,3
 刀,刀,dāo,,,,3
@@ -854,15 +854,15 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 恐,恐,kǒng,,,,3
 咖,咖,kā,,,,3
 啡,啡,fēi,,,,3
-石,石,shí,,,,3
+石,石,shí,piedra,"En la BOCA de este PRECIPICIO, hay una PIEDRA gigante cubriendo la entrada a una cueva secreta.","En la BOCA de este PRECIPICIO, hay una PIEDRA gigante cubriendo la entrada a una cueva secreta.",3
 浪,浪,làng,,,,3
 缺,缺,quē,,,,3
 羊,羊,yáng,oveja,"Esta REINA de la belleza, con CUERNOS y un BASTÓN es la OVEJA.","Esta REINA de la belleza, con CUERNOS y un BASTÓN es la OVEJA.",3
 搬,搬,bān,,,,3
 齐,齊,qí,,,,3
 啤,啤,pí,,,,3
-握,握,wò,,,,3
-屋,屋,wū,,,,3
+握,握,wò,agarra,Dentro de la CASA nuestras MANOS AGARRAMOS.,Dentro de la CASA nuestras MANOS AGARRAMOS.,3
+屋,屋,wū,casa,Esta persona llegó a su CLÍMAX y se convirtió en un CADÁVER en esta CASA.,Esta persona llegó a su CLÍMAX y se convirtió en un CADÁVER en esta CASA.,3
 暖,暖,nuǎn,,,,3
 预,預,yù,,,,3
 胖,胖,pàng,,,,3
@@ -907,7 +907,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 政,政,zhèng,,,,4
 府,府,fǔ,,,,4
 甚,甚,shèn,,,,4
-研,研,yán,,,,4
+研,研,yán,investigación,ABRIMOS esta PIEDRA para INVESTIGARLA.,ABRIMOS esta PIEDRA para INVESTIGARLA.,4
 究,究,jiū,,,,4
 供,供,gōng,,,,4
 统,統,tǒng,,,,4
@@ -1592,7 +1592,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 牺,犧,xī,,,,6
 牲,牲,shēng,,,,6
 驻,駐,zhù,,,,6
-械,械,xiè,,,,6
+械,械,xiè,aparato,Cerca de este ÁRBOL nos ABSTENEMOS de usar APARATOS que lo puedan dañar.,Cerca de este ÁRBOL nos ABSTENEMOS de usar APARATOS que lo puedan dañar.,6
 埋,埋,mái,,,,6
 铺,鋪,pù,,,,6
 猛,猛,měng,,,,6
@@ -1815,7 +1815,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 盯,盯,dīng,,,,7
 勒,勒,lēi,,,,7
 尸,屍尸,shī,,,,7
-瓦,瓦,wǎ,,,,7
+瓦,瓦,wǎ,teja,Un BASTÓN con un ANZUELO usamos para sacar el HIELO del TECHO y que no se nos arruinen las TEJAS.,Un BASTÓN con un ANZUELO usamos para sacar el HIELO del TECHO y que no se nos arruinen las TEJAS.,7
 寓,寓,yù,,,,7
 艘,艘,sōu,,,,7
 尴,尷,gān,,,,7
@@ -1879,8 +1879,8 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 娶,娶,qǔ,,,,7
 镑,鎊,bàng,,,,7
 坑,坑,kēng,,,,7
-尿,尿,niào,,,,7
-粒,粒,lì,,,,7
+尿,尿,niào,orina,Con AGUA se limpia de este CADÁVER la ORINA.,Con AGUA se limpia de este CADÁVER la ORINA.,7
+粒,粒,lì,grano,Estoy PARADO cosechando ARROZ de todos los GRANOS.,Estoy PARADO cosechando ARROZ de todos los GRANOS.,7
 宪,憲,xiàn,,,,7
 扯,扯,chě,,,,7
 雾,霧,wù,,,,7
@@ -2208,7 +2208,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 奥,奧,ào,,,,8
 迄,迄,qì,,,,8
 捧,捧,pěng,,,,8
-履,履,lǚ,,,,8
+履,履,lǚ,calzado,Al RESTAURAR un CADÁVER debemos ubicar correctamente su CALZADO.,Al RESTAURAR un CADÁVER debemos ubicar correctamente su CALZADO.,8
 悠,悠,yōu,,,,8
 覆,覆,fù,,,,8
 乃,乃,nǎi,,,,8
@@ -2656,7 +2656,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 顷,頃,qǐng,,,,9
 譬,譬,pì,,,,9
 茫,茫,máng,,,,9
-刑,刑,xíng,,,,9
+刑,刑,xíng,castigo,ABRIMOS la ESPADA para este CASTIGO.,ABRIMOS la ESPADA para este CASTIGO.,9
 窑,窯,yáo,,,,9
 屡,屢,lǚ,,,,9
 菊,菊,jú,,,,9
@@ -2887,7 +2887,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 慑,懾慴,shè,,,,9
 丘,丘,qiū,,,,9
 陵,陵,líng,,,,9
-尼,尼,ní,,,,9
+尼,尼,ní,monja,Con una CUCHARA examina este CADÁVER esta MONJA.,Con una CUCHARA examina este CADÁVER esta MONJA.,9
 嫦,嫦,cháng,,,,9
 娥,娥,é,,,,9
 冗,冗,rǒng,,,,9
