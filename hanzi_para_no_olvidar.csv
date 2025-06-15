@@ -24,7 +24,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 点,點,diǎn,,,,1
 到,到,dào,,,,1
 多,多,duō,,,,1
-会,會,huì,,,,1
+会,會,huì,"reunión, poder",Usamos PARAGUAS cuando en las NUBES se ha REUNIDO lluvia.,-,1
 着,著,zhe,,,,1
 来,來,lái,,,,1
 她,她,tā,,,,1
@@ -52,7 +52,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 想,想,xiǎng,,,,1
 地,地,dì,,,,1
 用,用,yòng,"uso, necesidad",Para revisar la CARNE este BASTÓN USAMOS.,Para revisar la CARNE este BASTÓN USAMOS.,1
-出,出,chū,,,,1
+出,出,chū,salir,A dos MONTAÑAS hoy vamos a SALIR.,A dos MONTAÑAS hoy vamos a SALIR.,1
 现,現,xiàn,,,,1
 次,次,cì,,,,1
 最,最,zuì,,,,1
@@ -210,7 +210,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 包,包,bāo,paquete,En invierno YO estoy EMPAQUETADO en un PAQUETE que es mi cama.,En invierno YO estoy EMPAQUETADO en un PAQUETE que es mi cama.,1
 脑,腦,nǎo,,,,1
 歌,歌,gē,canción,Todos BOSTEZAN cuando este HERMANO MAYOR CANTA.,Todos BOSTEZAN cuando este HERMANO MAYOR CANTA.,1
-山,山,shān,,,,1
+山,山,shān,montaña,Pictograma de una MONTAÑA.,Pictograma de una MONTAÑA.,1
 热,熱,rè,,,,1
 唱,唱,chàng,cantar,Parece que hay dos SOLES en el cielo cuando esta BOCA está CANTANDO sus hermosas melodías.,Parece que hay dos SOLES en el cielo cuando esta BOCA está CANTANDO sus hermosas melodías.,1
 名,名,míng,,,,1
@@ -281,7 +281,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 饿,餓,è,,,,1
 果,果,guǒ,,,,1
 图,圖,tú,,,,1
-店,店,diàn,,,,1
+店,店,diàn,tienda,Son AMPLIOS los estantes relacionados a la ADIVINACIÓN en esta TIENDA.,Son AMPLIOS los estantes relacionados a la ADIVINACIÓN en esta TIENDA.,1
 爷,爺,yé,,,,1
 牛,牛,niú,,,,1
 商,商,shāng,,,,1
@@ -397,7 +397,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 变,變,biàn,,,,2
 辆,輛,liàng,,,,2
 克,克剋,kè,,,,2
-庭,庭,tíng,,,,2
+庭,庭,tíng,patio,Este TRIBUNAL tiene un AMPLIO PATIO.,Este TRIBUNAL tiene un AMPLIO PATIO.,2
 音,音,yīn,sonido,Esta persona está DE PIE todo el DÍA ejecutando los más diversos SONIDOS.,Esta persona está DE PIE todo el DÍA ejecutando los más diversos SONIDOS.,2
 乐,樂,lè,,,,2
 交,交,jiāo,,,,2
@@ -415,7 +415,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 市,市,shì,,,,2
 换,換,huàn,,,,2
 银,銀,yín,,,,2
-句,句,jù,,,,2
+句,句,jù,frase,Las palabras EMPAQUETADAS que salen de la BOCA son una FRASE.,Las palabras EMPAQUETADAS que salen de la BOCA son una FRASE.,2
 际,際,jì,,,,2
 靠,靠,kào,,,,2
 称,稱,chēng,,,,2
@@ -450,7 +450,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 算,算,suàn,,,,2
 声,聲,shēng,,,,2
 照,照,zhào,,,,2
-广,广廣,guǎng,,,,2
+广,广廣,guǎng,amplio,Una GOTA es muy pequeña para un PRECIPICIO tan AMPLIO.,Una GOTA es muy pequeña para un PRECIPICIO tan AMPLIO.,2
 永,永,yǒng,,,,2
 层,層,céng,,,,2
 平,平,píng,,,,2
@@ -465,7 +465,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 迎,迎,yíng,,,,2
 举,舉,jǔ,,,,2
 科,科,kē,,,,2
-占,占,zhàn,,,,2
+占,占,zhàn,adivinación,"Primero usará la VARITA MÁGICA, y a continuación la BOCA del adivino expresará su ADIVINACIÓN.","Primero usará la VARITA MÁGICA, y a continuación la BOCA del adivino expresará su ADIVINACIÓN.",2
 排,排,pái,,,,2
 轻,輕,qīng,,,,2
 讨,討,tǎo,,,,2
@@ -558,7 +558,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 爬,爬,pá,,,,2
 宜,宜,yí,,,,2
 处,處,chù,,,,2
-云,云雲,yún,,,,2
+云,云雲,yún,nube,Con UN ANTEBRAZO nos protegemos de la lluvia de esta NUBE.,"El agua que se transformará en LLUVIA sube al cielo en forma de vapor contenido en NUBES, y se queda almacenada en las NUBES.",2
 铁,鐵,tiě,,,,2
 草,草,cǎo,,,,2
 业,業,yè,,,,2
@@ -676,7 +676,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 建,建,jiàn,,,,3
 议,議,yì,,,,3
 济,濟,jì,,,,3
-曾,曾,céng,,,,3
+曾,曾,céng,anteriormente,Todos los DÍAS se ponían CUERNOS alrededor de los ARROZALES para asustar a los malos espíritus ANTERIORMENTE.,Todos los DÍAS se ponían CUERNOS alrededor de los ARROZALES para asustar a los malos espíritus ANTERIORMENTE.,3
 民,民,mín,,,,3
 坚,堅,jiān,,,,3
 规,規,guī,,,,3
@@ -713,7 +713,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 深,深,shēn,,,,3
 领,領,lǐng,,,,3
 导,導,dǎo,,,,3
-增,增,zēng,,,,3
+增,增,zēng,aumento,En comparación con ANTERIORMENTE esta TIERRA ha AUMENTADO su valor.,En comparación con ANTERIORMENTE esta TIERRA ha AUMENTADO su valor.,3
 至,至,zhì,,,,3
 训,訓,xùn,,,,3
 压,壓,yā,,,,3
@@ -836,7 +836,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 族,族,zú,,,,3
 土,土,tǔ,tierra,De seguro muchos más de DIEZ tipos de SUELOS podemos encontrar si exploramos diferentes TIERRAS lejanas.,De seguro muchos más de DIEZ tipos de SUELOS podemos encontrar si exploramos diferentes TIERRAS lejanas.,3
 互,互,hù,,,,3
-据,據,jù,,,,3
+据,據,jù,"acuerdo, instalar",Con nuestras MANOS firmamos y el lugar de RESIDENCIA ACORDAMOS.,-,3
 卫,衛,wèi,,,,3
 迷,迷,mí,,,,3
 将,將,jiāng,,,,3
@@ -935,7 +935,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 引,引,yǐn,,,,4
 盘,盤,pán,,,,4
 企,企,qǐ,,,,4
-局,侷局,jú,,,,4
+局,侷局,jú,oficina,Hasta los CADÁVERES dicen FRASES en esta OFICINA.,Hasta los CADÁVERES dicen FRASES en esta OFICINA.,4
 轮,輪,lún,,,,4
 致,緻致,zhì,,,,4
 遇,遇,yù,,,,4
@@ -995,7 +995,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 权,權,quán,,,,4
 户,戶,hù,,,,4
 良,良,liáng,,,,4
-居,居,jū,,,,4
+居,居,jū,residir,Este VIEJO CADÁVER RESIDE en este lugar de descanso.,Este VIEJO CADÁVER RESIDE en este lugar de descanso.,4
 迅,迅,xùn,,,,4
 减,減,jiǎn,,,,4
 挑,挑,tiāo,,,,4
@@ -1282,7 +1282,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 吓,嚇,xià,,,,5
 曲,曲麴,qū,,,,5
 鬼,鬼,guǐ,,,,5
-库,庫,kù,,,,5
+库,庫,kù,bodega,Muchos VEHÍCULOS se pueden guardar en esta AMPLIA BODEGA.,Muchos VEHÍCULOS se pueden guardar en esta AMPLIA BODEGA.,5
 玻,玻,bō,,,,5
 璃,琍璃,lí,,,,5
 贸,貿,mào,,,,5
@@ -1448,7 +1448,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 兔,兔,tù,,,,5
 斜,斜,xié,,,,5
 硕,碩,shuò,,,,5
-赠,贈,zèng,,,,5
+赠,贈,zèng,regalo,ANTERIORMENTE las ALMEJAS eran el mejor REGALO.,ANTERIORMENTE las ALMEJAS eran el mejor REGALO.,5
 愁,愁,chóu,,,,5
 漠,漠,mò,,,,5
 壁,壁,bì,,,,5
@@ -2269,7 +2269,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 莫,莫,mò,,,,8
 皱,皺,zhòu,,,,8
 诈,詐,zhà,,,,8
-屈,屈,qū,,,,8
+屈,屈,qū,doblar,Cuando pensamos que un CADÁVER va a SALIR de su tumba DOBLAMOS la esquina y arrancamos.,Cuando pensamos que un CADÁVER va a SALIR de su tumba DOBLAMOS la esquina y arrancamos.,8
 臣,臣,chén,,,,8
 腔,腔,qiāng,,,,8
 雕,鵰雕,diāo,,,,8
@@ -2332,7 +2332,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 奢,奢,shē,,,,8
 侈,侈,chǐ,,,,8
 萝,蘿,luó,,,,8
-卜,卜,bo,,,,8
+卜,卜,bo,"adivinación, varita mágica",Pictograma de una varita mágica para ADIVINACIÓN.,Pictograma de una varita mágica para ADIVINACIÓN.,8
 愣,愣,lèng,,,,8
 弓,弓,gōng,,,,8
 缚,縛,fù,,,,8
@@ -2704,7 +2704,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 禽,禽,qín,,,,9
 诧,詫,chà,,,,9
 讹,訛,é,,,,9
-廷,廷,tíng,,,,9
+廷,廷,tíng,tribunal,"Los PORTADORES de la justicia, a veces ESTIRAN la ley a su conveniencia en los TRIBUNALES.","Los PORTADORES de la justicia, a veces ESTIRAN la ley a su conveniencia en los TRIBUNALES.",9
 贾,賈,jiǎ,,,,9
 恤,卹恤,xù,,,,9
 弈,弈,yì,,,,9
@@ -2808,7 +2808,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 桂,桂,guì,,,,9
 阀,閥,fá,,,,9
 颂,頌,sòng,,,,9
-僧,僧,sēng,,,,9
+僧,僧,sēng,monje,Esta PERSONA ANTERIORMENTE era un MONJE.,Esta PERSONA ANTERIORMENTE era un MONJE.,9
 芬,芬,fēn,,,,9
 芳,芳,fāng,,,,9
 焕,煥,huàn,,,,9
@@ -3002,3 +3002,4 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 巳,巳,sì,serpiente,YO con un BASTÓN aparto a la SERPIENTE de mi camino.,YO con un BASTÓN aparto a la SERPIENTE de mi camino.,-
 匕,匕,bǐ,cuchara,Pictograma de una CUCHARA.,Pictograma de una CUCHARA.,-
 吾,吾,wú,yo,"Nuestros CINCO sentidos son nuestras BOCAS hacia el mundo, y equivalen a un YO.","Nuestros CINCO sentidos son nuestras BOCAS hacia el mundo, y equivalen a un YO.",-
+厶,厶,sī,privado,Pictograma de algo PRIVADO.,Pictograma de algo PRIVADO.,-
