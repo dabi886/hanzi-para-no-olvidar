@@ -36,7 +36,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 年,秊年,nián,año,"Nuestra máscara de celebración es un CABALLO con GAFAS, ¡Feliz AÑO nuevo!","Nuestra máscara de celebración es un CABALLO con GAFAS, ¡Feliz AÑO nuevo!",1
 大,大,dà,grande,Pictograma de UNA PERSONA GRANDE.,Pictograma de UNA PERSONA GRANDE.,1
 给,給,gěi,,,,1
-从,從,cóng,,,,1
+从,從,cóng,"seguir, desde, a través",Esta PERSONA a esta otra PERSONA SIGUE.,-,1
 看,看,kàn,,,,1
 去,去,qù,,,,1
 能,能,néng,,,,1
@@ -165,7 +165,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 花,花,huā,,,,1
 第,第,dì,,,,1
 块,塊,kuài,,,,1
-坐,坐,zuò,,,,1
+坐,坐,zuò,sentarse,SEGUIMOS esta TIERRA para SENTARNOS.,SEGUIMOS esta TIERRA para SENTARNOS.,1
 影,影,yǐng,,,,1
 昨,昨,zuó,,,,1
 笑,笑,xiào,,,,1
@@ -243,7 +243,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 服,服,fú,,,,1
 北,北,běi,norte,Dos CUCHARAS llevamos al NORTE por si acaso.,Dos CUCHARAS llevamos al NORTE por si acaso.,1
 菜,菜,cài,verdura,RECOLECTAMOS FLORES y VERDURAS para este banquete.,RECOLECTAMOS FLORES y VERDURAS para este banquete.,1
-床,床,chuáng,,,,1
+床,床,chuáng,cama,Este AMPLIO ÁRBOL lo convertimos en CAMA.,Este AMPLIO ÁRBOL lo convertimos en CAMA.,1
 休,休,xiū,,,,1
 息,息,xī,,,,1
 冷,冷,lěng,,,,1
@@ -374,7 +374,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 片,片,piàn,,,,2
 钟,鐘鍾,zhōng,,,,2
 表,表錶,biǎo,,,,2
-示,示,shì,,,,2
+示,示,shì,"mostrar, altar",Solamente DOS PEQUEÑAS cosas vamos a MOSTRAR como ofrenda cuando vamos al altar.,Solamente DOS PEQUEÑAS cosas vamos a MOSTRAR como ofrenda cuando vamos al altar.,2
 卡,卡,kǎ,,,,2
 刚,剛,gāng,,,,2
 讲,講,jiǎng,,,,2
@@ -411,7 +411,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 队,隊,duì,,,,2
 育,育,yù,,,,2
 数,數,shù,,,,2
-座,座,zuò,,,,2
+座,座,zuò,sentarse,"A la hora de SENTARSE, un lugar AMPLIO es el mejor lugar para SENTARSE.","A la hora de SENTARSE, un lugar AMPLIO es el mejor lugar para SENTARSE.",2
 市,市,shì,,,,2
 换,換,huàn,,,,2
 银,銀,yín,,,,2
@@ -438,7 +438,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 实,實,shí,,,,2
 超,超,chāo,,,,2
 健,健,jiàn,,,,2
-康,康,kāng,,,,2
+康,康,kāng,sano,Este ESCLAVO está AMPLIAMENTE SANO.,Este ESCLAVO está AMPLIAMENTE SANO.,2
 眼,眼,yǎn,,,,2
 清,清,qīng,,,,2
 楚,楚,chǔ,,,,2
@@ -817,20 +817,20 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 丰,豐丰,fēng,,,,3
 富,富,fù,,,,3
 防,防,fáng,,,,3
-麻,麻,má,,,,3
+麻,麻,má,cáñamo,En esta AMPLIA ARBOLEDA se planta CÁÑAMO.,En esta AMPLIA ARBOLEDA se planta CÁÑAMO.,3
 烦,煩,fán,,,,3
 退,退,tuì,,,,3
 猪,豬,zhū,,,,3
 似,似,shì,,,,3
 古,古,gǔ,viejo,Esta BOCA ya tiene una CRUZ porque es muy VIEJA.,Esta BOCA ya tiene una CRUZ porque es muy VIEJA.,3
-厂,厂廠,chǎng,,,,3
+厂,厂廠,chǎng,"precipicio, fábrica",Pictograma de un PRECIPICIO.,Pictograma de un PRECIPICIO.,3
 农,農,nóng,,,,3
 舞,舞,wǔ,,,,3
 姑,姑,gū,,,,3
 娘,娘,niáng,,,,3
 奇,奇,qí,,,,3
 怪,怪,guài,,,,3
-付,付,fù,,,,3
+付,付,fù,pagar,Esta PERSONA de acuerdo a la MEDIDA PAGA.,Esta PERSONA de acuerdo a la MEDIDA PAGA.,3
 害,害,hài,,,,3
 烟,煙,yān,,,,3
 族,族,zú,,,,3
@@ -905,7 +905,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 无,無,wú,,,,4
 择,擇,zé,,,,4
 政,政,zhèng,,,,4
-府,府,fǔ,,,,4
+府,府,fǔ,municipio,Los PAGOS son AMPLIOS en este MUNICIPIO.,Los PAGOS son AMPLIOS en este MUNICIPIO.,4
 甚,甚,shèn,,,,4
 研,研,yán,investigación,ABRIMOS esta PIEDRA para INVESTIGARLA.,ABRIMOS esta PIEDRA para INVESTIGARLA.,4
 究,究,jiū,,,,4
@@ -1088,7 +1088,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 阅,閱,yuè,,,,4
 江,江,jiāng,,,,4
 森,森,sēn,,,,4
-林,林,lín,,,,4
+林,林,lín,arboleda,Dos ÁRBOLES representan una ARBOLEDA.,Dos ÁRBOLES representan una ARBOLEDA.,4
 脱,脫,tuō,,,,4
 描,描,miáo,,,,4
 述,述,shù,,,,4
@@ -1310,7 +1310,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 拼,拼,pīn,,,,5
 怜,憐,lián,,,,5
 吐,吐,tǔ,,,,5
-厅,廳,tīng,,,,5
+厅,廳,tīng,oficina gubernamental,Para que la POBLACIÓN no caiga al PRECIPICIO se necesitan OFICINAS GUBERNAMENTALES.,-,5
 堆,堆,duī,,,,5
 扔,扔,rēng,,,,5
 滑,滑,huá,,,,5
@@ -1350,7 +1350,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 劝,勸,quàn,,,,5
 艰,艱,jiān,,,,5
 烂,爛,làn,,,,5
-肃,肅,sù,,,,5
+肃,肅,sù,solemne,Este ESCLAVO con estos dos BASTONES realiza una ceremonia SOLEMNE.,-,5
 悔,悔,huǐ,,,,5
 滚,滾,gǔn,,,,5
 熊,熊,xióng,,,,5
@@ -1811,7 +1811,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 魅,魅,mèi,,,,7
 砸,砸,zá,,,,7
 狼,狼,láng,,,,7
-丁,丁,dīng,,,,7
+丁,丁,dīng,población,Pictograma de una señal que indica el nombre de una POBLACIÓN.,Pictograma de una señal que indica el nombre de una POBLACIÓN.,7
 盯,盯,dīng,,,,7
 勒,勒,lēi,,,,7
 尸,屍尸,shī,,,,7
@@ -1873,7 +1873,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 诱,誘,yòu,,,,7
 惑,惑,huò,engaño,En el CORAZÓN o en la cabeza se producen los ENGAÑOS.,En el CORAZÓN o en la cabeza se producen los ENGAÑOS.,7
 哎,哎,āi,,,,7
-逮,逮,dǎi,,,,7
+逮,逮,dǎi,capturar,Este ESCLAVO en este CAMINO es CAPTURADO.,Este ESCLAVO en este CAMINO es CAPTURADO.,7
 趁,趁,chèn,,,,7
 邦,邦,bāng,nación,Las MURALLAS que tienen los ARBUSTOS más bonitos son las de nuestra NACIÓN.,Las MURALLAS que tienen los ARBUSTOS más bonitos son las de nuestra NACIÓN.,7
 娶,娶,qǔ,,,,7
@@ -2117,7 +2117,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 钓,釣,diào,,,,7
 炫,炫,xuàn,,,,7
 奴,奴,nú,,,,7
-隶,隸,lì,,,,7
+隶,隸,lì,esclavo,Quien lava este PINCEL con AGUA es este ESCLAVO.,-,7
 俊,俊,jùn,,,,7
 绅,紳,shēn,,,,7
 揍,揍,zòu,,,,7
@@ -2709,7 +2709,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 恤,卹恤,xù,,,,9
 弈,弈,yì,,,,9
 徽,徽,huī,,,,9
-卒,卒,zú,,,,9
+卒,卒,zú,finalizar,SEGUIMOS estas DIEZ CHISTERAS para FINALIZAR esta exposición de sombreros.,SEGUIMOS estas DIEZ CHISTERAS para FINALIZAR esta exposición de sombreros.,9
 囊,囊,náng,,,,9
 惋,惋,wǎn,,,,9
 沧,滄,cāng,,,,9
@@ -2992,7 +2992,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 欧,歐,ōu,,,,9
 浦,浦,pǔ,,,,9
 孔,孔,kǒng,,,,9
-唐,唐,táng,,,,9
+唐,唐,táng,tang,El AMPLIO conocimiento de las BOCAS se escribía con PINCELES en la dinastía TANG.,El AMPLIO conocimiento de las BOCAS se escribía con PINCELES en la dinastía TANG.,9
 潘,潘,pān,,,,9
 邓,鄧,dèng,,,,9
 淮,淮,huái,,,,9
