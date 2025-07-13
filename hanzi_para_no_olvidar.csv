@@ -116,7 +116,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 欢,驩讙歡,huān,,,,1
 怎,怎,zěn,,,,1
 分,分,fēn,,,,1
-谁,誰,shuí,,,,1
+谁,誰,shuí,quién,"Aquellas PALABRAS que este PÁJARO se está diciendo a sí mismo todo el día son: ""¿QUIÉN soy?","Aquellas PALABRAS que este PÁJARO se está diciendo a sí mismo todo el día son: ""¿QUIÉN soy?",1
 告,告,gào,,,,1
 诉,訴,sù,,,,1
 样,樣,yàng,,,,1
@@ -306,7 +306,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 可,可,kě,posible,"Imagina un tiburón que tiene CLAVOS en su BOCA, todo es POSIBLE para él.","Imagina un tiburón que tiene CLAVOS en su BOCA, todo es POSIBLE para él.",2
 以,以,yǐ,,,,2
 让,讓,ràng,,,,2
-又,又,yòu,otra vez,"NO o varios BRAZOS, OTRA VEZ nos ayudarán.","NO o varios BRAZOS, OTRA VEZ nos ayudarán.",2
+又,又,yòu,otra vez,"UNO o varios BRAZOS, OTRA VEZ nos ayudarán.","UNO o varios BRAZOS, OTRA VEZ nos ayudarán.",2
 已,已,yǐ,,,,2
 经,經,jīng,,,,2
 因,因,yīn,,,,2
@@ -326,7 +326,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 万,萬,wàn,,,,2
 像,像,xiàng,,,,2
 活,活,huó,,,,2
-发,髮發,fā,,,,2
+发,髮發,fā,"cabello, salida",Con dos GOTAS de agua a nuestro AMIGO limpiamos el PELO.,"El mejor AMIGO de las mujeres es el PELO LARGO cuando se trata de CABELLO. Con nuestra ARMA que es un ARCO, en mano, dejamos PISADAS porque comenzamos la SALIDA.",2
 应,應,yīng,,,,2
 成,成,chéng,,,,2
 直,直,zhí,,,,2
@@ -429,7 +429,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 往,往,wǎng,,,,2
 掉,掉,diào,,,,2
 黑,黑,hēi,,,,2
-度,度,dù,,,,2
+度,度,dù,grado,OTRA VEZ por un AMPLIO periodo VEINTE GRADOS.,OTRA VEZ por un AMPLIO periodo VEINTE GRADOS.,2
 收,收,shōu,,,,2
 省,省,shěng,,,,2
 海,海,hǎi,,,,2
@@ -742,7 +742,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 范,範,fàn,,,,3
 围,圍,wéi,,,,3
 紧,緊,jǐn,,,,3
-集,集,jí,,,,3
+集,集,jí,coleccionar,En este ÁRBOL PÁJAROS COLECCIONAMOS.,En este ÁRBOL PÁJAROS COLECCIONAMOS.,3
 血,血,xuè,,,,3
 速,速,sù,,,,3
 艺,藝,yì,,,,3
@@ -930,7 +930,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 著,著,zhù,,,,4
 置,置,zhì,,,,4
 治,治,zhì,,,,4
-疗,療,liáo,,,,4
+疗,療,liáo,sanar,COMPLETAMOS esta ENFERMEDAD para luego SANAR.,QUEMAMOS esta ENFERMEDAD para SANAR esta persona.,4
 构,構,gòu,,,,4
 引,引,yǐn,,,,4
 盘,盤,pán,,,,4
@@ -981,7 +981,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 童,童,tóng,,,,4
 措,措,cuò,,,,4
 施,施,shī,,,,4
-序,序,xù,,,,4
+序,序,xù,"orden, secuencia",DAMOS AMPLIO ORDEN a nuestras cosas.,DAMOS AMPLIO ORDEN a nuestras cosas.,4
 宝,寶,bǎo,,,,4
 距,距,jù,,,,4
 符,符,fú,,,,4
@@ -990,7 +990,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 测,測,cè,,,,4
 贴,貼,tiē,,,,4
 针,針,zhēn,,,,4
-席,席,xí,,,,4
+席,席,xí,asiento,Con VEINTE TOALLAS formamos este AMPLIO ASIENTO.,Con VEINTE TOALLAS formamos este AMPLIO ASIENTO.,4
 松,鬆松,sōng,,,,4
 权,權,quán,,,,4
 户,戶,hù,,,,4
@@ -1038,7 +1038,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 维,維,wéi,,,,4
 均,均,jūn,,,,4
 归,歸,guī,,,,4
-登,登,dēng,,,,4
+登,登,dēng,ascender,Comemos LEGUMBRES para que nuestras PISADAS sean fuertes al ASCENDER por la montaña.,Comemos LEGUMBRES para que nuestras PISADAS sean fuertes al ASCENDER por la montaña.,4
 卷,卷捲,juǎn,,,,4
 译,譯,yì,,,,4
 映,映,yìng,,,,4
@@ -1531,7 +1531,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 炸,炸,zhà,,,,6
 憾,憾,hàn,,,,6
 略,略,lüè,,,,6
-予,予,yǔ,,,,6
+予,予,yǔ,"dar, yo",Con TAMPÓN se firma lo que a la POBLACIÓN se le va a DAR.,Con TAMPÓN se firma lo que a la POBLACIÓN se le va a DAR.,6
 诺,諾,nuò,,,,6
 咨,咨,zī,,,,6
 患,患,huàn,,,,6
@@ -1820,7 +1820,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 艘,艘,sōu,,,,7
 尴,尷,gān,,,,7
 尬,尬,gà,,,,7
-兼,兼,jiān,,,,7
+兼,兼,jiān,simultáneo,"Aquí vemos a alguien tratando de usar un PINCEL y un BASTÓN para partir unos CUERNOS, pero sólo consiguió que saltarán dos GOTAS hacia los lados de manera SIMULTÁNEA.","Aquí vemos a alguien tratando de usar un PINCEL y un BASTÓN para partir unos CUERNOS, pero sólo consiguió que saltarán dos GOTAS hacia los lados de manera SIMULTÁNEA.",7
 魂,魂,hún,,,,7
 皆,皆,jiē,,,,7
 晰,晰皙,xī,,,,7
@@ -2062,7 +2062,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 憋,憋,biē,,,,7
 赐,賜,cì,,,,7
 蹦,蹦,bèng,,,,7
-廉,廉,lián,,,,7
+廉,廉,lián,barato,Esto es AMPLIO y BARATO de manera SIMULTÁNEA.,Esto es AMPLIO y BARATO de manera SIMULTÁNEA.,7
 绳,繩,shéng,,,,7
 枕,枕,zhěn,,,,7
 丫,丫,yā,,,,7
@@ -2334,7 +2334,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 萝,蘿,luó,,,,8
 卜,卜,bo,"adivinación, varita mágica",Pictograma de una varita mágica para ADIVINACIÓN.,Pictograma de una varita mágica para ADIVINACIÓN.,8
 愣,愣,lèng,,,,8
-弓,弓,gōng,,,,8
+弓,弓,gōng,arco,Pictograma de un ARCO.,Pictograma de un ARCO.,8
 缚,縛,fù,,,,8
 艇,艇,tǐng,,,,8
 兑,兌,duì,,,,8
@@ -2530,7 +2530,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 忌,忌,jì,,,,8
 堡,堡,bǎo,,,,8
 垒,壘,lěi,,,,8
-僚,僚,liáo,,,,8
+僚,僚,liáo,colega,Esta PERSONA no se QUEMA gracias a su COLEGA.,Esta PERSONA no se QUEMA gracias a su COLEGA.,8
 膛,膛,táng,,,,8
 煽,煽,shān,,,,8
 岳,嶽岳,yuè,,,,8
@@ -3004,3 +3004,4 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 吾,吾,wú,yo,"Nuestros CINCO sentidos son nuestras BOCAS hacia el mundo, y equivalen a un YO.","Nuestros CINCO sentidos son nuestras BOCAS hacia el mundo, y equivalen a un YO.",-
 厶,厶,sī,privado,Pictograma de algo PRIVADO.,Pictograma de algo PRIVADO.,-
 庶,庶,shù,plebeyo,VEINTE AMPLIOS FUEGOS tienen los PLEBEYOS en esta área.,VEINTE AMPLIOS FUEGOS tienen los PLEBEYOS en esta área.,-
+寮,寮,liáo,dormitorio,Protegemos esta CASA para que no se QUEME ya que es nuestro DORMITORIO.,Protegemos esta CASA para que no se QUEME ya que es nuestro DORMITORIO.,-
