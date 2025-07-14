@@ -166,7 +166,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 第,第,dì,,,,1
 块,塊,kuài,,,,1
 坐,坐,zuò,sentarse,SEGUIMOS esta TIERRA para SENTARNOS.,SEGUIMOS esta TIERRA para SENTARNOS.,1
-影,影,yǐng,,,,1
+影,影,yǐng,sombra,En este PAISAJE este PELO genera SOMBRA.,En este PAISAJE este PELO genera SOMBRA.,1
 昨,昨,zuó,,,,1
 笑,笑,xiào,,,,1
 介,介,jiè,,,,1
@@ -264,7 +264,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 雨,雨,yǔ,,,,1
 旁,旁,páng,,,,1
 京,京,jīng,capital,"En comparación con los ALTOS edificios, todas las personas se ven PEQUEÑAS en la CAPITAL.","En comparación con los ALTOS edificios, todas las personas se ven PEQUEÑAS en la CAPITAL.",1
-页,頁,yè,,,,1
+页,頁,yè,página,"Imaginemos una ALMEJA como si fuera un libro de UNA página. Abrimos el libro, y encontramos una única GOTA de sabiduría, la única PÁGINA.","Imaginemos una ALMEJA como si fuera un libro de UNA página. Abrimos el libro, y encontramos una única GOTA de sabiduría, la única PÁGINA.",1
 贵,貴,guì,,,,1
 面,面麵,miàn,,,,1
 哥,哥,gē,hermano mayor,Todo es POSIBLE y nuevamente POSIBLE para este HERMANO MAYOR.,Todo es POSIBLE y nuevamente POSIBLE para este HERMANO MAYOR.,1
@@ -339,12 +339,12 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 其,其,qí,,,,2
 通,通,tōng,,,,2
 必,必,bì,,,,2
-须,鬚須,xū,,,,2
+须,鬚須,xū,obligación,En nuestras PÁGINAS los PELOS debemos limpiarlos porque es una OBLIGACIÓN.,En nuestras PÁGINAS los PELOS debemos limpiarlos porque es una OBLIGACIÓN.,2
 求,求,qiú,,,,2
 虽,雖,suī,,,,2
 然,然,rán,,,,2
 啊,啊,a,,,,2
-参,參,cān,,,,2
+参,參,cān,"participar, consulta, referencia",En esta GRAN convención PRIVADA de PELOS PARTICIPAREMOS.,En esta GRAN convención PRIVADA de PELOS PARTICIPAREMOS.,2
 加,加,jiā,,,,2
 件,件,jiàn,,,,2
 情,情,qíng,,,,2
@@ -529,7 +529,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 观,觀,guān,,,,2
 鸟,鳥,niǎo,,,,2
 墙,牆,qiáng,,,,2
-颜,顏顔,yán,,,,2
+颜,顏顔,yán,cara,Este VIRTUOSO tiene en está PÁGINA todo el día su CARA porque está estudiando.,Este VIRTUOSO tiene en está PÁGINA todo el día su CARA porque está estudiando.,2
 色,色,sè,,,,2
 阳,陽,yáng,,,,2
 顾,顧,gù,,,,2
@@ -768,7 +768,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 乱,亂,luàn,,,,3
 创,創,chuàng,,,,3
 足,足,zú,"pie, suficiente",Acomodamos de manera CORRECTA la BOCA de nuestro calzado para tener cómodo nuestro PIE.,Acomodamos de manera CORRECTA la BOCA de nuestro calzado para tener cómodo nuestro PIE.,3
-形,形,xíng,forma,"Cuando deseamos una FORMA específica , con las DOS MANOS le damos aquella FORMA al objeto.","Cuando deseamos una FORMA específica , con las DOS MANOS le damos aquella FORMA al objeto.",3
+形,形,xíng,forma,ABRIMOS este PELO para darle FORMA.,ABRIMOS este PELO para darle FORMA.,3
 初,初,chū,,,,3
 破,破,pò,,,,3
 危,危,wēi,,,,3
@@ -780,7 +780,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 架,架,jià,,,,3
 章,章,zhāng,insignia,Esta persona está TEMPRANO PARADO con su INSIGNIA.,Esta persona está TEMPRANO PARADO con su INSIGNIA.,3
 村,村,cūn,,,,3
-彩,彩,cǎi,,,,3
+彩,彩,cǎi,color,RECOLECTAMOS PELOS de diferentes COLORES.,RECOLECTAMOS PELOS de diferentes COLORES.,3
 刀,刀,dāo,,,,3
 误,誤,wù,,,,3
 胜,勝,shèng,,,,3
@@ -810,7 +810,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 输,輸,shū,,,,3
 伟,偉,wěi,,,,3
 止,止,zhǐ,detenerse,Interpretaremos este carácter como el pictograma de una huella de un pie que estuvo DETENIDO.,Interpretaremos este carácter como el pictograma de una huella de un pie que estuvo DETENIDO.,3
-修,脩修,xiū,,,,3
+修,脩修,xiū,reparar,Esta PERSONA lleva sus PIERNAS ANDANTES y sus PELOS para este BASTÓN REPARAR.,Esta PERSONA lleva sus PIERNAS ANDANTES y sus PELOS para este BASTÓN REPARAR.,3
 配,配,pèi,,,,3
 武,武,wǔ,,,,3
 器,器,qì,,,,3
@@ -1175,7 +1175,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 寒,寒,hán,,,,4
 抄,抄,chāo,,,,4
 骨,骨,gǔ,,,,4
-豆,豆,dòu,,,,4
+豆,豆,dòu,legumbres,"UNA BOCA recibirá este alimento con forma de CUERNOS, que en realidad son LEGUMBRES.","UNA BOCA recibirá este alimento con forma de CUERNOS, que en realidad son LEGUMBRES.",4
 腐,腐,fǔ,,,,4
 宁,寧,níng,,,,4
 巾,巾,jīn,toalla,"En este BASTÓN colgamos esta CAPUCHA, que en realidad es una TOALLA.","En este BASTÓN colgamos esta CAPUCHA, que en realidad es una TOALLA.",4
@@ -1675,7 +1675,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 灭,滅,miè,,,,6
 扁,扁,biǎn,,,,6
 洁,潔,jié,,,,6
-惨,慘,cǎn,,,,6
+惨,慘,cǎn,miseria,Aquello que no debe PARTICIPAR en el CORAZÓN es la MISERIA.,-,6
 聘,聘,pìn,,,,6
 磨,磨,mó,,,,6
 宠,寵,chǒng,,,,6
@@ -2272,7 +2272,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 屈,屈,qū,doblar,Cuando pensamos que un CADÁVER va a SALIR de su tumba DOBLAMOS la esquina y arrancamos.,Cuando pensamos que un CADÁVER va a SALIR de su tumba DOBLAMOS la esquina y arrancamos.,8
 臣,臣,chén,,,,8
 腔,腔,qiāng,,,,8
-雕,鵰雕,diāo,,,,8
+雕,鵰雕,diāo,esculpir,Este PÁJARO como CIRCUNFERENCIA lo ESCULPIMOS.,Este PÁJARO como CIRCUNFERENCIA lo ESCULPIMOS.,8
 崭,嶄,zhǎn,,,,8
 橡,橡,xiàng,,,,8
 馈,饋餽,kuì,,,,8
@@ -2355,7 +2355,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 浸,浸,jìn,,,,8
 潇,瀟,xiāo,,,,8
 卸,卸,xiè,,,,8
-膨,膨,péng,,,,8
+膨,膨,péng,hinchado,De tanto tocar el TAMBOR bajo la LUNA tengo hasta los PELOS HINCHADOS.,De tanto tocar el TAMBOR bajo la LUNA tengo hasta los PELOS HINCHADOS.,8
 胀,脹,zhàng,,,,8
 酝,醞,yùn,,,,8
 酿,釀,niàng,,,,8
@@ -2635,7 +2635,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 狭,狹,xiá,,,,9
 茅,茅,máo,,,,9
 阐,闡,chǎn,,,,9
-彰,彰,zhāng,,,,9
+彰,彰,zhāng,manifiesto,Un PELO como INSIGNIA es el MANIFIESTO de este grupo.,Un PELO como INSIGNIA es el MANIFIESTO de este grupo.,9
 奠,奠,diàn,,,,9
 饲,飼,sì,,,,9
 萎,萎,wēi,,,,9
@@ -3005,3 +3005,6 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 厶,厶,sī,privado,Pictograma de algo PRIVADO.,Pictograma de algo PRIVADO.,-
 庶,庶,shù,plebeyo,VEINTE AMPLIOS FUEGOS tienen los PLEBEYOS en esta área.,VEINTE AMPLIOS FUEGOS tienen los PLEBEYOS en esta área.,-
 寮,寮,liáo,dormitorio,Protegemos esta CASA para que no se QUEME ya que es nuestro DORMITORIO.,Protegemos esta CASA para que no se QUEME ya que es nuestro DORMITORIO.,-
+杉,杉,shān,conífera,Este PELO es de un ÁRBOL de CONÍFERAS.,Este PELO es de un ÁRBOL de CONÍFERAS.,-
+彦,彥,yàn,virtuoso,Pierde hasta el PELO por la PRODUCCIÓN este VIRTUOSO muchacho.,Pierde hasta el PELO por la PRODUCCIÓN este VIRTUOSO muchacho.,-
+壴,壴,zhù,tambor,Con DIEZ LEGUMBRES formamos este TAMBOR.,Con DIEZ LEGUMBRES formamos este TAMBOR.,-
