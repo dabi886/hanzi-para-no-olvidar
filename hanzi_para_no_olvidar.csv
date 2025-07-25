@@ -28,12 +28,12 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 着,著,zhe,,,,1
 来,來,lái,,,,1
 她,她,tā,,,,1
-还,還,hái,,,,1
+还,還,hái,"devolver, todavía, además",Miramos asustados en este CAMINO que NO tiene DEVOLUCIÓN.,MIRAMOS ASUSTADOS en este CAMINO que no tiene DEVOLUCIÓN.,1
 没,沒,méi,,,,1
 很,很,hěn,,,,1
 好,好,hǎo,gustar,Una MUJER y un NIÑO son del GUSTO de todos.,Una MUJER y un NIÑO son del GUSTO de todos.,1
 中,中,zhōng,,,,1
-年,秊年,nián,año,"Nuestra máscara de celebración es un CABALLO con GAFAS, ¡Feliz AÑO nuevo!","Nuestra máscara de celebración es un CABALLO con GAFAS, ¡Feliz AÑO nuevo!",1
+年,秊年,nián,año,Con UN BASTÓN de celebración desde el MEDIODÍA esperamos el AÑO nuevo.,Con UN BASTÓN de celebración desde el MEDIODÍA esperamos el AÑO nuevo.,1
 大,大,dà,grande,Pictograma de UNA PERSONA GRANDE.,Pictograma de UNA PERSONA GRANDE.,1
 给,給,gěi,,,,1
 从,從,cóng,"seguir, desde, a través",Esta PERSONA a esta otra PERSONA SIGUE.,-,1
@@ -108,7 +108,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 吃,吃,chī,,,,1
 身,身,shēn,,,,1
 重,重,zhòng,,,,1
-爱,愛,ài,amor,Cuando nuestro GALLINERO está lleno de AMISTAD también estará lleno de AMOR.,Se nota en nuestras PIERNAS ANDANTES y en nuestro CORAZÓN cuando nuestro GALLINERO está lleno de AMOR.,1
+爱,愛,ài,amor,Se nota hasta en nuestras UÑAS cuando en nuestra vida con CORONA está reinando la AMISTAD y sobre todo el AMOR.,"Se nota en nuestras PIERNAS ANDANTES, en nuestro CORAZÓN y hasta en nuestras UÑAS cuando en nuestra vida con CORONA está reinando el AMOR.",1
 国,國,guó,,,,1
 买,買,mǎi,,,,1
 号,號,hào,,,,1
@@ -128,7 +128,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 叫,叫,jiào,,,,1
 回,回迴,huí,,,,1
 正,正,zhèng,correcto,DETENERSE UNA o las veces necesarias a pensar es lo CORRECTO.,DETENERSE UNA o las veces necesarias a pensar es lo CORRECTO.,1
-快,快,kuài,,,,1
+快,快,kuài,"placer, rápido",Hemos DECIDIDO en el CORAZÓN sólo tener PLACER.,Hemos DECIDIDO en el CORAZÓN sólo tener PLACER.,1
 住,住,zhù,,,,1
 请,請,qǐng,,,,1
 水,水,shuǐ,,,,1
@@ -182,7 +182,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 习,習,xí,,,,1
 口,口,kǒu,boca,Pictograma de una BOCA.,Pictograma de una BOCA.,1
 穿,穿,chuān,,,,1
-午,午,wǔ,,,,1
+午,午,wǔ,"mediodía, caballo",A las DIEZ todavía estamos RECOSTADOS porque aún no es MEDIODÍA.,A las DIEZ todavía estamos RECOSTADOS porque aún no es MEDIODÍA.,1
 认,認,rèn,,,,1
 识,識,shí,,,,1
 难,難,nán,,,,1
@@ -364,7 +364,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 划,劃划,huà,,,,2
 使,使,shǐ,,,,2
 接,接,jiē,,,,2
-受,受,shòu,,,,2
+受,受,shòu,aceptar,OTRA VEZ estas UÑAS con forma de CORONA nos ACEPTARON.,OTRA VEZ estas UÑAS con forma de CORONA nos ACEPTARON.,2
 拉,拉,lā,tirar,PARADO con nuestras MANOS TIRAMOS esta puerta para abrirla.,PARADO con nuestras MANOS TIRAMOS esta puerta para abrirla.,2
 周,周週,zhōu,,,,2
 特,特,tè,,,,2
@@ -621,7 +621,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 赛,賽,sài,,,,3
 任,任,rèn,,,,3
 何,何,hé,,,,3
-决,決,jué,,,,3
+决,決,jué,decidir,Lo que se ha DECIDIDO en el HIELO es lo que se va a DECIDIR para todas partes.,Lo que se ha DECIDIDO en el AGUA es lo que se va a DECIDIR para todas partes.,3
 连,連,lián,,,,3
 较,較,jiào,,,,3
 城,城,chéng,,,,3
@@ -680,7 +680,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 民,民,mín,,,,3
 坚,堅,jiān,,,,3
 规,規,guī,,,,3
-环,環,huán,,,,3
+环,環,huán,"círculo, anillo",NO queremos perdernos esta JOYA CIRCULAR por su belleza.,MIRAMOS ASUSTADOS esta JOYA CIRCULAR porque es muy cara.,3
 境,境,jìng,,,,3
 证,證証,zhèng,,,,3
 责,責,zé,,,,3
@@ -808,7 +808,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 烈,烈,liè,,,,3
 评,評,píng,,,,3
 输,輸,shū,,,,3
-伟,偉,wěi,,,,3
+伟,偉,wěi,admirable,La PERSONA que construyó este CUERO irrompible es realmente ADMIRABLE.,La PERSONA que construyó este CUERO irrompible es realmente ADMIRABLE.,3
 止,止,zhǐ,detenerse,Interpretaremos este carácter como el pictograma de una huella de un pie que estuvo DETENIDO.,Interpretaremos este carácter como el pictograma de una huella de un pie que estuvo DETENIDO.,3
 修,脩修,xiū,reparar,Esta PERSONA lleva sus PIERNAS ANDANTES y sus PELOS para este BASTÓN REPARAR.,Esta PERSONA lleva sus PIERNAS ANDANTES y sus PELOS para este BASTÓN REPARAR.,3
 配,配,pèi,,,,3
@@ -825,7 +825,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 古,古,gǔ,viejo,Esta BOCA ya tiene una CRUZ porque es muy VIEJA.,Esta BOCA ya tiene una CRUZ porque es muy VIEJA.,3
 厂,厂廠,chǎng,"precipicio, fábrica",Pictograma de un PRECIPICIO.,Pictograma de un PRECIPICIO.,3
 农,農,nóng,,,,3
-舞,舞,wǔ,,,,3
+舞,舞,wǔ,baile,Hay UNA persona RECOSTADA OPUESTA a todos y los otros CUARENTA están BAILANDO.,Hay UNA persona RECOSTADA OPUESTA a todos y los otros CUARENTA están BAILANDO.,3
 姑,姑,gū,,,,3
 娘,娘,niáng,,,,3
 奇,奇,qí,,,,3
@@ -837,7 +837,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 土,土,tǔ,tierra,De seguro muchos más de DIEZ tipos de SUELOS podemos encontrar si exploramos diferentes TIERRAS lejanas.,De seguro muchos más de DIEZ tipos de SUELOS podemos encontrar si exploramos diferentes TIERRAS lejanas.,3
 互,互,hù,,,,3
 据,據,jù,"acuerdo, instalar",Con nuestras MANOS firmamos y el lugar de RESIDENCIA ACORDAMOS.,-,3
-卫,衛,wèi,,,,3
+卫,衛,wèi,defensa,Con UN SELLO firmamos esta DEFENSA.,VAMOS con un CUERO a realizar esta DEFENSA.,3
 迷,迷,mí,,,,3
 将,將,jiāng,,,,3
 判,判,pàn,,,,3
@@ -902,7 +902,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 却,卻,què,,,,4
 之,之,zhī,,,,4
 担,擔,dān,,,,4
-无,無,wú,,,,4
+无,無,wú,nada,UN COJO no tiene NADA en uno de sus pies.,,4
 择,擇,zé,,,,4
 政,政,zhèng,,,,4
 府,府,fǔ,municipio,Los PAGOS son AMPLIOS en este MUNICIPIO.,Los PAGOS son AMPLIOS en este MUNICIPIO.,4
@@ -1007,7 +1007,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 败,敗,bài,,,,4
 烧,燒,shāo,,,,4
 摆,擺,bǎi,,,,4
-降,降,jiàng,,,,4
+降,降,jiàng,caer,Cuando dirigimos nuestras PIERNAS ANDANTES hacia la CÚSPIDE llevamos DIEZ ANZUELOS para sostenernos y no CAER.,Cuando dirigimos nuestras PIERNAS ANDANTES hacia la CÚSPIDE llevamos DIEZ ANZUELOS para sostenernos y no CAER.,4
 秘,秘,mì,,,,4
 密,密,mì,,,,4
 趣,趣,qù,,,,4
@@ -1306,7 +1306,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 索,索,suǒ,,,,5
 劳,勞,láo,,,,5
 稍,稍,shāo,,,,5
-违,違,wéi,,,,5
+违,違,wéi,diferente,"Cuando nos encontramos un CUERO en el CAMINO, sólo esperamos que sea uno DIFERENTE y no el nuestro.","Cuando nos encontramos un CUERO en el CAMINO, sólo esperamos que sea uno DIFERENTE y no el nuestro.",5
 拼,拼,pīn,,,,5
 怜,憐,lián,,,,5
 吐,吐,tǔ,,,,5
@@ -1333,7 +1333,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 挤,擠,jǐ,,,,5
 宿,宿,sù,,,,5
 舍,舍捨,shě,,,,5
-邻,鄰,lín,,,,5
+邻,鄰,lín,vecino,En esta CIUDAD se siguen las ÓRDENES para vivir en paz con los VECINOS.,-,5
 碎,碎,suì,,,,5
 插,插,chā,,,,5
 咬,咬,yǎo,,,,5
@@ -1716,7 +1716,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 旋,旋,xuán,,,,6
 贯,貫,guàn,,,,6
 枝,枝,zhī,,,,6
-杰,傑,jié,,,,6
+杰,傑,jié,"grandeza, excelente",Este ÁRBOL parece estar en FUEGO por su GRANDEZA.,Una PERSONA atacando un ÁRBOL es lo OPUESTO a la GRANDEZA.,6
 拐,枴拐,guǎi,,,,6
 谋,謀,móu,,,,6
 凡,凡,fán,,,,6
@@ -1828,7 +1828,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 轿,轎,jiào,,,,7
 呈,呈,chéng,,,,7
 栋,棟,dòng,,,,7
-瞬,瞬,shùn,,,,7
+瞬,瞬,shùn,instante,"De manera OPUESTA a cuando nuestros OJOS MIRAN una CORONA, cuando miran UÑAS sólo lo hacen un INSTANTE.","De manera OPUESTA a cuando nuestros OJOS MIRAN una CORONA, cuando miran UÑAS sólo lo hacen un INSTANTE.",7
 婴,嬰,yīng,,,,7
 秩,秩,zhì,,,,7
 讶,訝,yà,,,,7
@@ -2907,7 +2907,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 逞,逞,chěng,,,,9
 碧,碧,bì,,,,9
 呜,嗚,wū,,,,9
-纬,緯,wěi,,,,9
+纬,緯,wěi,latitud,Con CUERO y unos HILOS marcamos la LATITUD en el mapa.,Con CUERO y unos HILOS marcamos la LATITUD en el mapa.,9
 贤,賢,xián,,,,9
 吏,吏,lì,,,,9
 杨,楊,yáng,,,,9
@@ -2979,7 +2979,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 澳,澳,ào,,,,9
 秦,秦,qín,,,,9
 吕,呂,lǚ,,,,9
-韩,韓,hán,,,,9
+韩,韓,hán,corea,Donde limpian CUERO con ROCÍO es en COREA.,Donde limpian CUERO con ROCÍO es en COREA.,9
 孟,孟,mèng,,,,9
 宋,宋,sòng,,,,9
 蜀,蜀,shǔ,,,,9
@@ -3008,3 +3008,9 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 杉,杉,shān,conífera,Este PELO es de un ÁRBOL de CONÍFERAS.,Este PELO es de un ÁRBOL de CONÍFERAS.,-
 彦,彥,yàn,virtuoso,Pierde hasta el PELO por la PRODUCCIÓN este VIRTUOSO muchacho.,Pierde hasta el PELO por la PRODUCCIÓN este VIRTUOSO muchacho.,-
 壴,壴,zhù,tambor,Con DIEZ LEGUMBRES formamos este TAMBOR.,Con DIEZ LEGUMBRES formamos este TAMBOR.,-
+睘,睘,qióng,mirar asustado,"A pesar de que tenemos nuestra BOCA cubierta con UNA ROPA, nuestro OJOS MIRAN ASUSTADOS un lugar frío.","A pesar de que tenemos nuestra BOCA cubierta con UNA ROPA, nuestro OJOS MIRAN ASUSTADOS un lugar frío.",-
+舛,舛,chuǎn,opuesto,Estos DIEZ ANZUELOS a trabajar en la NOCHE son OPUESTOS.,Estos DIEZ ANZUELOS a trabajar en la NOCHE son OPUESTOS.,-
+韦,韋,wéi,cuero,Se necesitó no sólo UNO sino DIEZ ANZUELOS para obtener este CUERO.,"Se necesitó no sólo UN ANZUELO y un BASTÓN sino DIEZ ANZUELOS para obtener lo que nos llevaremos a la BOCA ahora, este CUERO.",-
+侯,侯,hóu,marqués,Esta PERSONA con UN ANZUELO y una FLECHA es un MARQUÉS.,Esta PERSONA con UN ANZUELO y una FLECHA es un MARQUÉS.,-
+夬,夬,guài,decidido,Que esta PERSONA con UN ANZUELO hoy pescará está DECIDIDO.,Que esta PERSONA con UN ANZUELO hoy pescará está DECIDIDO.,-
+尢,尢,wāng,cojo,Aquí vemos UNAS PIERNAS de un COJO.,Aquí vemos UNAS PIERNAS de un COJO.,-
