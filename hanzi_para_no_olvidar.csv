@@ -29,7 +29,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 来,來,lái,,,,1
 她,她,tā,,,,1
 还,還,hái,"devolver, todavía, además",Miramos asustados en este CAMINO que NO tiene DEVOLUCIÓN.,MIRAMOS ASUSTADOS en este CAMINO que no tiene DEVOLUCIÓN.,1
-没,沒,méi,,,,1
+没,沒,méi,"hundirse, no",Esta ARMA en el AGUA se HUNDE.,-,1
 很,很,hěn,,,,1
 好,好,hǎo,gustar,Una MUJER y un NIÑO son del GUSTO de todos.,Una MUJER y un NIÑO son del GUSTO de todos.,1
 中,中,zhōng,,,,1
@@ -99,7 +99,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 高,高,gāo,alto,Este EXTRATERRESTRE se ha puesto esta CHISTERA y exclamó por su BOCA sorprendido por verse más ALTO con ella puesta.,Este EXTRATERRESTRE se ha puesto esta CHISTERA y exclamó por su BOCA sorprendido por verse más ALTO con ella puesta.,1
 日,日,rì,"día, sol","Pictograma del sol, el cual marca el transcurso de nuestros DÍAS.","Pictograma del sol, el cual marca el transcurso de nuestros DÍAS.",1
 觉,覺,jué,,,,1
-得,得,dé,,,,1
+得,得,dé,ganancia,Cuando VAMOS siempre al AMANECER a nuestro trabajo grande será la MEDIDA de nuestra GANANCIA.,Cuando VAMOS siempre al AMANECER a nuestro trabajo grande será la MEDIDA de nuestra GANANCIA.,1
 吧,吧,ba,sugerencia,A través de mi BOCA expreso mis DESEOS y SUGERENCIAS.,A través de mi BOCA expreso mis DESEOS y SUGERENCIAS.,1
 话,話,huà,,,,1
 钱,錢,qián,,,,1
@@ -198,7 +198,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 视,視,shì,,,,1
 师,師,shī,,,,1
 百,百,bǎi,cien,BLANCO se torna el cabello cuando tenemos no UNO sino CIEN años.,BLANCO se torna el cabello cuando tenemos no UNO sino CIEN años.,1
-半,半,bàn,mitad,Con esta PEQUEÑA AGUJA se puede atravesar un pelo por la MITAD.,Con esta PEQUEÑA AGUJA se puede atravesar un pelo por la MITAD.,1
+半,半,bàn,mitad,OCHO BASTONES han sido cada uno partido en DOS MITADES.,OCHO BASTONES han sido cada uno partido en DOS MITADES.,1
 干,乾干幹,gàn,,,,1
 体,體,tǐ,,,,1
 喝,喝,hē,,,,1
@@ -305,7 +305,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 但,但,dàn,,,,2
 可,可,kě,posible,"Imagina un tiburón que tiene CLAVOS en su BOCA, todo es POSIBLE para él.","Imagina un tiburón que tiene CLAVOS en su BOCA, todo es POSIBLE para él.",2
 以,以,yǐ,,,,2
-让,讓,ràng,,,,2
+让,讓,ràng,"ceder, permitir",Debemos ELEVAR PALABRAS para CEDER buenos deseos.,PALABRAS de AYUDA CEDEMOS a quien lo necesite.,2
 又,又,yòu,otra vez,"UNO o varios BRAZOS, OTRA VEZ nos ayudarán.","UNO o varios BRAZOS, OTRA VEZ nos ayudarán.",2
 已,已,yǐ,,,,2
 经,經,jīng,,,,2
@@ -334,7 +334,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 带,帶,dài,,,,2
 或,或,huò,o,"UNA LANZA, una BOCA, O algo más, no sabemos qué es más poderoso.","UNA LANZA, una BOCA, O algo más, no sabemos qué es más poderoso.",2
 长,長,zhǎng,,,,2
-而,而,ér,,,,2
+而,而,ér,y,Aquí vemos UNA RED y una GOTA Y algo más.,Aquí vemos UNA RED y una GOTA Y algo más.,2
 且,且,qiě,,,,2
 其,其,qí,,,,2
 通,通,tōng,,,,2
@@ -350,7 +350,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 情,情,qíng,,,,2
 结,結,jié,,,,2
 感,感,gǎn,,,,2
-头,頭,tóu,,,,2
+头,頭,tóu,cabeza,Dos GRANDES GOTAS forman esta CABEZA.,LEGUMBRES y PÁGINAS se necesitan para alimentar una buena CABEZA.,2
 者,者,zhě,,,,2
 全,全,quán,,,,2
 入,入,rù,,,,2
@@ -377,7 +377,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 示,示,shì,"mostrar, altar",Solamente DOS PEQUEÑAS cosas vamos a MOSTRAR como ofrenda cuando vamos al altar.,Solamente DOS PEQUEÑAS cosas vamos a MOSTRAR como ofrenda cuando vamos al altar.,2
 卡,卡,kǎ,,,,2
 刚,剛,gāng,,,,2
-讲,講,jiǎng,,,,2
+讲,講,jiǎng,hablar,Otra vez en un POZO PALABRAS se están expresando para HABLAR.,OTRA VEZ en UN POZO PALABRAS se están expresando para HABLAR.,2
 相,相,xiāng,,,,2
 助,助,zhù,,,,2
 努,努,nǔ,,,,2
@@ -435,7 +435,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 海,海,hǎi,,,,2
 愿,愿願,yuàn,,,,2
 意,意,yì,,,,2
-实,實,shí,,,,2
+实,實,shí,realidad,Siempre tengo la CABEZA en la CASA hasta conocer la REALIDAD.,Dentro de la CASA TRASPASAMOS el conocimiento de la REALIDAD.,2
 超,超,chāo,,,,2
 健,健,jiàn,,,,2
 康,康,kāng,sano,Este ESCLAVO está AMPLIAMENTE SANO.,Este ESCLAVO está AMPLIAMENTE SANO.,2
@@ -468,7 +468,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 占,占,zhàn,adivinación,"Primero usará la VARITA MÁGICA, y a continuación la BOCA del adivino expresará su ADIVINACIÓN.","Primero usará la VARITA MÁGICA, y a continuación la BOCA del adivino expresará su ADIVINACIÓN.",2
 排,排,pái,,,,2
 轻,輕,qīng,,,,2
-讨,討,tǎo,,,,2
+讨,討,tǎo,atacar,Hay que MEDIR las PALABRAS antes de ATACAR.,Hay que MEDIR las PALABRAS antes de ATACAR.,2
 论,論,lùn,,,,2
 挺,挺,tǐng,,,,2
 由,由,yóu,,,,2
@@ -581,7 +581,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 忽,忽,hū,,,,2
 篮,籃,lán,,,,2
 阴,陰,yīn,,,,2
-春,春,chūn,,,,2
+春,春,chūn,primavera,Cuando el SOL está pegando sobre los ARBUSTOS con BASTÓN estamos frente a la llegada de la PRIMAVERA.,Cuando el SOL está pegando sobre los ARBUSTOS con BASTÓN estamos frente a la llegada de la PRIMAVERA.,2
 餐,餐,cān,,,,2
 共,共,gòng,,,,2
 澡,澡,zǎo,,,,2
@@ -649,7 +649,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 除,除,chú,,,,3
 台,台檯臺颱,tái,,,,3
 按,按,àn,,,,3
-设,設,shè,,,,3
+设,設,shè,instalar,Con PALABRAS damos las instrucciones para esta ARMA INSTALAR.,Con PALABRAS damos las instrucciones para esta ARMA INSTALAR.,3
 戏,戲,xì,,,,3
 精,精,jīng,,,,3
 神,神,shén,,,,3
@@ -687,7 +687,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 造,造,zào,,,,3
 显,顯,xiǎn,,,,3
 简,簡,jiǎn,,,,3
-专,專,zhuān,,,,3
+专,專,zhuān,especialidad,DOS ANZUELOS y una GOTA necesitamos para estudiar esta ESPECIALIDAD en pesca.,-,3
 基,基,jī,,,,3
 仍,仍,réng,,,,3
 父,父,fù,padre,Cuatro GOTAS de sudor hay en la frente de este PADRE que trabaja sin descanso.,Cuatro GOTAS de sudor hay en la frente de este PADRE que trabaja sin descanso.,3
@@ -725,7 +725,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 底,底,dǐ,,,,3
 历,曆歷,lì,,,,3
 验,驗,yàn,,,,3
-状,狀,zhuàng,,,,3
+状,狀,zhuàng,situación,Este PERRO con este TRONCO tiene una SITUACIÓN.,-,3
 品,品,pǐn,,,,3
 步,步,bù,,,,3
 伤,傷,shāng,,,,3
@@ -779,7 +779,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 积,積,jī,,,,3
 架,架,jià,,,,3
 章,章,zhāng,insignia,Esta persona está TEMPRANO PARADO con su INSIGNIA.,Esta persona está TEMPRANO PARADO con su INSIGNIA.,3
-村,村,cūn,,,,3
+村,村,cūn,"pueblo, villa, aldea",De la MEDIDA de un ÁRBOL es este pequeño PUEBLO.,De la MEDIDA de un ÁRBOL es este pequeño PUEBLO.,3
 彩,彩,cǎi,color,RECOLECTAMOS PELOS de diferentes COLORES.,RECOLECTAMOS PELOS de diferentes COLORES.,3
 刀,刀,dāo,,,,3
 误,誤,wù,,,,3
@@ -892,7 +892,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 衬,襯,chèn,,,,3
 衫,衫,shān,,,,3
 材,材,cái,,,,3
-散,散,sàn,,,,3
+散,散,sàn,dispersar,Este CAPATAZ a la luz de la LUNA UNA FLOR DISPERSA en su jardín.,Este CAPATAZ a la luz de la LUNA UNA FLOR DISPERSA en su jardín.,3
 裙,裙,qún,,,,3
 箱,箱,xiāng,,,,3
 蕉,蕉,jiāo,,,,3
@@ -919,7 +919,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 律,律,lǜ,,,,4
 未,未,wèi,,,,4
 严,嚴,yán,,,,4
-投,投,tóu,,,,4
+投,投,tóu,lanzar,Con la MANO esta ARMA LANZAMOS.,Con la MANO esta ARMA LANZAMOS.,4
 乎,乎,hū,,,,4
 络,絡,luò,,,,4
 附,附,fù,,,,4
@@ -1003,7 +1003,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 怀,懷,huái,,,,4
 疑,疑,yí,,,,4
 货,貨,huò,,,,4
-购,購,gòu,,,,4
+购,購,gòu,comprar,El DINERO que está MARCADO para gastarse es con el que COMPRAMOS.,OTRA VEZ en UN POZO con DINERO se están COMPRANDO cosas.,4
 败,敗,bài,,,,4
 烧,燒,shāo,,,,4
 摆,擺,bǎi,,,,4
@@ -1080,7 +1080,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 折,折,zhé,,,,4
 摇,搖,yáo,,,,4
 阵,陣,zhèn,,,,4
-守,守,shǒu,,,,4
+守,守,shǒu,proteger,Tomamos la MEDIDA a esta CASA antes de PROTEGERLA.,Tomamos la MEDIDA a esta CASA antes de PROTEGERLA.,4
 寄,寄,jì,,,,4
 闭,閉,bì,,,,4
 妇,婦,fù,,,,4
@@ -1163,7 +1163,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 招,招,zhāo,,,,4
 赞,贊,zàn,,,,4
 巴,巴,bā,desear,A las SERPIENTES con este BASTÓN DESEO espantarlas.,A las SERPIENTES con este BASTÓN DESEO espantarlas.,4
-寸,寸,cùn,medida,"Una DÉCIMA parte, como sólo una GOTA, de un chǐ, otra antigua unidad de medida, representaba esta antigua unidad de MEDIDA.","Una DÉCIMA parte, como sólo una GOTA, de un chǐ, otra antigua unidad de medida, representaba esta antigua unidad de MEDIDA.",4
+寸,寸,cùn,medida,Con DIEZ GOTAS se mide esta unidad de MEDIDA.,Con DIEZ GOTAS se mide esta unidad de MEDIDA.,4
 智,智,zhì,,,,4
 缩,縮,suō,,,,4
 矮,矮,ǎi,,,,4
@@ -1172,7 +1172,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 暑,暑,shǔ,,,,4
 瓜,瓜,guā,,,,4
 胸,胸,xiōng,,,,4
-寒,寒,hán,,,,4
+寒,寒,hán,frío,UN POZO abastece a OCHO CASAS en esta aldea en la época del año en que todo se transforma en HIELO y hace más FRÍO.,UN POZO abastece a OCHO CASAS en esta aldea en la época del año en que todo se transforma en HIELO y hace más FRÍO.,4
 抄,抄,chāo,,,,4
 骨,骨,gǔ,,,,4
 豆,豆,dòu,legumbres,"UNA BOCA recibirá este alimento con forma de CUERNOS, que en realidad son LEGUMBRES.","UNA BOCA recibirá este alimento con forma de CUERNOS, que en realidad son LEGUMBRES.",4
@@ -1189,7 +1189,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 辩,辯,biàn,,,,4
 叶,葉叶,yè,,,,4
 扬,揚,yáng,,,,4
-递,遞,dì,,,,4
+递,遞,dì,enviar,Por este CAMINO a mi HERMANO MENOR ENVÍO.,-,4
 郎,郎,láng,,,,4
 虫,蟲,chóng,,,,4
 亚,亞,yà,,,,4
@@ -1240,7 +1240,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 损,損,sǔn,,,,5
 悉,悉,xī,,,,5
 枪,槍,qiāng,,,,5
-击,擊,jī,,,,5
+击,擊,jī,ataque,Con la fuerza de DOS MONTAÑAS ATACAMOS.,-,5
 忆,憶,yì,,,,5
 册,冊,cè,,,,5
 启,啟,qǐ,,,,5
@@ -1260,7 +1260,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 甲,甲,jiǎ,,,,5
 频,頻,pín,,,,5
 肤,膚,fū,,,,5
-棒,棒,bàng,,,,5
+棒,棒,bàng,vara,De este ESTIMADO ÁRBOL hacemos las mejores VARAS.,De este ESTIMADO ÁRBOL hacemos las mejores VARAS.,5
 疯,瘋,fēng,,,,5
 狂,狂,kuáng,,,,5
 矛,矛,máo,,,,5
@@ -1382,11 +1382,11 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 抬,抬,tái,,,,5
 糕,糕,gāo,,,,5
 辞,辭,cí,,,,5
-耐,耐,nài,,,,5
+耐,耐,nài,soportar,Problemas de gran MEDIDA Y todo lo que sea podemos SOPORTAR.,Problemas de gran MEDIDA Y todo lo que sea podemos SOPORTAR.,5
 鼻,鼻,bí,,,,5
 拾,拾,shí,,,,5
 瞧,瞧,qiáo,,,,5
-诊,診,zhěn,,,,5
+诊,診,zhěn,diagnóstico,"Sólo con ver el PELO de esta PERSONA, el doctor da sus PALABRAS de DIAGNÓSTICO. ","Sólo con ver el PELO de esta PERSONA, el doctor da sus PALABRAS de DIAGNÓSTICO. ",5
 宾,賓,bīn,,,,5
 臭,臭,chòu,,,,5
 池,池,chí,,,,5
@@ -1396,7 +1396,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 紫,紫,zǐ,,,,5
 悲,悲,bēi,,,,5
 奈,奈,nài,,,,5
-珍,珍,zhēn,,,,5
+珍,珍,zhēn,valioso,"El PELO de esta PERSONA, como una JOYA, así de VALIOSO es.","El PELO de esta PERSONA, como una JOYA, así de VALIOSO es.",5
 拔,拔,bá,,,,5
 糟,糟,zāo,,,,5
 肌,肌,jī,,,,5
@@ -1580,7 +1580,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 跌,跌,diē,,,,6
 薯,薯,shǔ,,,,6
 慧,慧,huì,,,,6
-井,井,jǐng,,,,6
+井,井,jǐng,pozo,Pictograma de un POZO.,Pictograma de un POZO.,6
 箭,箭,jiàn,,,,6
 症,癥症,zhèng,,,,6
 宫,宮,gōng,,,,6
@@ -1638,11 +1638,11 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 幻,幻,huàn,,,,6
 爽,爽,shuǎng,,,,6
 贫,貧,pín,,,,6
-奏,奏,zòu,,,,6
+奏,奏,zòu,música,Estos ARBUSTOS con BASTÓN llegan al CIELO cuando se les toca buena MÚSICA.,Estos ARBUSTOS con BASTÓN llegan al CIELO cuando se les toca buena MÚSICA.,6
 额,額,é,,,,6
 毁,毀,huǐ,,,,6
 横,橫,héng,,,,6
-夺,奪,duó,,,,6
+夺,奪,duó,arrebatar,A este pájaro en GRAN MEDIDA le ARREBATARON sus pertenencias.,A este PÁJARO en GRAN MEDIDA le ARREBATARON sus pertenencias.,6
 账,賬,zhàng,,,,6
 扑,撲,pū,,,,6
 援,援,yuán,,,,6
@@ -1690,7 +1690,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 峰,峰,fēng,,,,6
 丧,喪,sàng,,,,6
 债,債,zhài,,,,6
-奉,奉,fèng,,,,6
+奉,奉,fèng,estima,A estos DOS ARBUSTOS con BASTONES le tenemos gran ESTIMA.,A estos DOS ARBUSTOS con BASTONES le tenemos gran ESTIMA.,6
 仓,倉,cāng,,,,6
 券,券,quàn,,,,6
 肺,肺,fèi,,,,6
@@ -1714,7 +1714,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 欺,欺,qī,,,,6
 渡,渡,dù,,,,6
 旋,旋,xuán,,,,6
-贯,貫,guàn,,,,6
+贯,貫,guàn,traspasar,Esta MADRE el DINERO lo TRASPASA a su hijo.,Esta MADRE el DINERO lo TRASPASA a su hijo.,6
 枝,枝,zhī,,,,6
 杰,傑,jié,"grandeza, excelente",Este ÁRBOL parece estar en FUEGO por su GRANDEZA.,Una PERSONA atacando un ÁRBOL es lo OPUESTO a la GRANDEZA.,6
 拐,枴拐,guǎi,,,,6
@@ -1758,13 +1758,13 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 旗,旗旂,qí,,,,6
 奔,犇奔,bēn,,,,6
 盼,盼,pàn,,,,6
-壮,壯,zhuàng,,,,6
+壮,壯,zhuàng,poderoso,Este ESTUDIANTE se aferra al TRONCO de la PODEROSA sabiduría.,-,6
 捕,捕,bǔ,,,,6
 昏,昏,hūn,,,,6
 湾,灣,wān,,,,6
 苏,蘇,sū,,,,6
 谦,謙,qiān,,,,6
-吉,吉,jí,,,,6
+吉,吉,jí,buena suerte,De la BOCA de este ESTUDIANTE sólo salen palabras de BUENA SUERTE.,De la BOCA de este ESTUDIANTE sólo salen palabras de BUENA SUERTE.,6
 馒,饅,mán,,,,6
 氧,氧,yǎng,,,,6
 宇,宇,yǔ,,,,6
@@ -1995,7 +1995,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 脂,脂,zhī,,,,7
 肪,肪,fáng,,,,7
 巡,巡,xún,,,,7
-勾,勾,gōu,,,,7
+勾,勾,gōu,marcar,"EMPAQUETAMOS lo PRIVADO, es decir, lo MARCAMOS.","EMPAQUETAMOS lo PRIVADO, es decir, lo MARCAMOS.",7
 晶,晶,jīng,,,,7
 捞,撈,lāo,,,,7
 谎,謊,huǎng,,,,7
@@ -2095,7 +2095,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 纱,紗,shā,,,,7
 挪,挪,nuó,,,,7
 虹,虹,hóng,,,,7
-郁,鬱郁,yù,,,,7
+郁,鬱郁,yù,depresión,En esta CIUDAD TENGO DEPRESIÓN.,"En una ARBOLEDA vemos a alguien con una CORONA en su PELO mientras come algo con una CUCHARA en una LATA, pero de pronto tropieza con una PALA y un HAZ y su comida se cae al suelo quedando sólo cuatro GOTAS, esto llena a este rey de un sentimiento de DEPRESIÓN.",7
 弊,弊,bì,,,,7
 勋,勛,xūn,,,,7
 坪,坪,píng,,,,7
@@ -2160,7 +2160,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 慷,慷,kāng,,,,7
 慨,慨嘅,kǎi,,,,7
 兽,獸,shòu,,,,7
-猎,獵,liè,,,,7
+猎,獵,liè,cacería,En el PASADO los PERROS se encargaban de la CACERÍA.,-,7
 脉,脈,mài,,,,7
 陋,陋,lòu,,,,7
 棺,棺,guān,,,,7
@@ -2314,7 +2314,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 鹅,鵝,é,,,,8
 黎,黎,lí,,,,8
 蒸,蒸,zhēng,,,,8
-壤,壤,rǎng,,,,8
+壤,壤,rǎng,tierra,La AYUDA en una TIERRA hace aquel lugar en una mejor TIERRA.,La AYUDA en una TIERRA hace aquel lugar en una mejor TIERRA.,8
 殴,毆,ōu,,,,8
 弦,弦,xián,,,,8
 叙,敘,xù,,,,8
@@ -2358,7 +2358,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 膨,膨,péng,hinchado,De tanto tocar el TAMBOR bajo la LUNA tengo hasta los PELOS HINCHADOS.,De tanto tocar el TAMBOR bajo la LUNA tengo hasta los PELOS HINCHADOS.,8
 胀,脹,zhàng,,,,8
 酝,醞,yùn,,,,8
-酿,釀,niàng,,,,8
+酿,釀,niàng,elaborar,BUEN ALCOHOL ELABORAMOS.,AYUDAMOS a el ALCOHOL ELABORAR.,8
 丙,丙,bǐng,tercera clase,"Esta PERSONA con la cabeza pegada al TECHO por la falta de espacio y apretada con este CINTURÓN, definitivamente va en un vuelo de TERCERA CLASE.","Esta PERSONA con la cabeza pegada al TECHO por la falta de espacio y apretada con este CINTURÓN, definitivamente va en un vuelo de TERCERA CLASE.",8
 瘫,癱,tān,,,,8
 痪,瘓,huàn,,,,8
@@ -2601,7 +2601,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 藻,藻,zǎo,,,,8
 咧,咧,liě,,,,9
 汛,汛,xùn,,,,9
-昔,昔,xī,,,,9
+昔,昔,xī,pasado,UNA FLOR vemos todavía presente desde los DÍAS del PASADO.,UNA FLOR vemos todavía presente desde los DÍAS del PASADO.,9
 帖,帖,tiē,,,,9
 亩,畝,mǔ,,,,9
 盈,盈,yíng,,,,9
@@ -2948,7 +2948,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 沏,沏,qī,,,,9
 鸦,鴉,yā,,,,9
 雀,雀,què,,,,9
-泰,泰,tài,,,,9
+泰,泰,tài,pacífico,El AGUA y el ARBUSTO con BASTÓN de este lugar generan el escenario más PACÍFICO.,El AGUA y el ARBUSTO con BASTÓN de este lugar generan el escenario más PACÍFICO.,9
 絮,絮,xù,,,,9
 矢,矢,shǐ,,,,9
 磊,磊,lěi,,,,9
@@ -3014,3 +3014,8 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 侯,侯,hóu,marqués,Esta PERSONA con UN ANZUELO y una FLECHA es un MARQUÉS.,Esta PERSONA con UN ANZUELO y una FLECHA es un MARQUÉS.,-
 夬,夬,guài,decidido,Que esta PERSONA con UN ANZUELO hoy pescará está DECIDIDO.,Que esta PERSONA con UN ANZUELO hoy pescará está DECIDIDO.,-
 尢,尢,wāng,cojo,Aquí vemos UNAS PIERNAS de un COJO.,Aquí vemos UNAS PIERNAS de un COJO.,-
+缶,缶,fǒu,lata,Al MEDIODÍA en la MONTAÑA limpio las LATAS.,Al MEDIODÍA en la MONTAÑA limpio las LATAS.,-
+尉,尉,wèi,oficial militar,Las MEDIDAS de sus CADÁVERES MUESTRA este OFICIAL MILITAR.,Las MEDIDAS de sus CADÁVERES MUESTRA este OFICIAL MILITAR.,-
+俸,俸,fèng,salario,Toda PERSONA ESTIMA su SALARIO.,Toda PERSONA ESTIMA su SALARIO.,-
+襄,襄,xiāng,"ayudar, asistir","Brindando ROPA, buscando agua en UN POZO, y alimentando estas dos BOCAS en esta CASA se brinda ASISTENCIA.","Brindando ROPA, buscando agua en UN POZO, y alimentando estas dos BOCAS en esta CASA se brinda ASISTENCIA.",-
+酉,酉,yǒu,"pájaro, alcohol",Desde el OESTE viene UN PÁJARO.,Desde el OESTE viene UN PÁJARO.,-
