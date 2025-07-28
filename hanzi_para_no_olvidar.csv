@@ -71,7 +71,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 新,新,xīn,,,,1
 候,候,hòu,,,,1
 些,些,xiē,,,,1
-比,比,bǐ,comparar,"Con dos CUCHARAS, una en cada mano, estás COMPARANDO la comida de tu madre con la de tu suegra. Y las comparaciones nunca fueron buenas.","Con dos CUCHARAS, una en cada mano, estás COMPARANDO la comida de tu madre con la de tu suegra. Y las comparaciones nunca fueron buenas.",1
+比,比,bǐ,comparar,Con dos CUCHARAS COMPARAS dos comidas.,Con dos CUCHARAS COMPARAS dos comidas.,1
 走,走,zǒu,"caminar, correr",En este TERRENO de manera CORRECTA corremos y CAMINAMOS.,En este TERRENO de manera CORRECTA corremos y CAMINAMOS.,1
 太,太,tài,,,,1
 找,找,zhǎo,,,,1
@@ -154,7 +154,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 元,元,yuán,,,,1
 进,進,jìn,,,,1
 写,寫,xiě,,,,1
-先,先,xiān,,,,1
+先,先,xiān,antes,"Esta VACA tiene PIERNAS humanas debido a que ANTES de ser convertida, era una persona.","Esta VACA tiene PIERNAS humanas debido a que ANTES de ser convertida, era una persona.",1
 您,您,nín,,,,1
 女,女,nǚ,,,,1
 生,生,shēng,,,,1
@@ -283,7 +283,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 图,圖,tú,,,,1
 店,店,diàn,tienda,Son AMPLIOS los estantes relacionados a la ADIVINACIÓN en esta TIENDA.,Son AMPLIOS los estantes relacionados a la ADIVINACIÓN en esta TIENDA.,1
 爷,爺,yé,,,,1
-牛,牛,niú,,,,1
+牛,牛,niú,vaca,Pictograma de una VACA.,Pictograma de una VACA.,1
 商,商,shāng,,,,1
 馆,館,guǎn,,,,1
 文,文,wén,,,,1
@@ -419,7 +419,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 际,際,jì,,,,2
 靠,靠,kào,,,,2
 称,稱,chēng,,,,2
-选,選,xuǎn,,,,2
+选,選,xuǎn,elección,ANTES de tomar cualquier CAMINO debemos hacer la ELECCIÓN correcta.,Dos YO JUNTOS caminan el CAMINO de las ELECCIONES de la vida.,2
 提,提,tí,,,,2
 末,末,mò,,,,2
 检,檢,jiǎn,,,,2
@@ -471,18 +471,18 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 讨,討,tǎo,atacar,Hay que MEDIR las PALABRAS antes de ATACAR.,Hay que MEDIR las PALABRAS antes de ATACAR.,2
 论,論,lùn,,,,2
 挺,挺,tǐng,,,,2
-由,由,yóu,,,,2
+由,由,yóu,motivo,En nuestros últimos DÍAS un BASTÓN es el MOTIVO por el cual podemos caminar.,En nuestros últimos DÍAS un BASTÓN es el MOTIVO por el cual podemos caminar.,2
 运,運,yùn,,,,2
 怕,怕,pà,,,,2
 脚,腳,jiǎo,,,,2
 普,普,pǔ,,,,2
 取,取,qǔ,,,,2
 笔,筆,bǐ,,,,2
-油,油,yóu,aceite,El AGUA que sale de este BROTE es el ACEITE de la planta.,El AGUA que sale de este BROTE es el ACEITE de la planta.,2
+油,油,yóu,aceite,El MOTIVO por el cual le echamos AGUA al ACEITE no lo sabemos.,El MOTIVO por el cual le echamos AGUA al ACEITE no lo sabemos.,2
 漂,漂,piāo,,,,2
 亮,亮,liàng,,,,2
 夜,夜,yè,,,,2
-画,畫,huà,,,,2
+画,畫,huà,dibujo,Con UNA PALA en este ARROZAL DIBUJAMOS sus partes.,-,2
 室,室,shì,,,,2
 哭,哭,kū,,,,2
 惯,慣,guàn,,,,2
@@ -501,7 +501,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 思,思,sī,,,,2
 篇,篇,piān,,,,2
 封,封,fēng,,,,2
-黄,黃,huáng,,,,2
+黄,黃,huáng,amarillo,El MOTIVO por el cual ponemos UNA FLOR al lado de estas PATAS es para adornarlas con algo AMARILLO.,-,2
 旅,旅,lǚ,,,,2
 游,游遊,yóu,,,,2
 弄,弄,nòng,,,,2
@@ -583,7 +583,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 阴,陰,yīn,,,,2
 春,春,chūn,primavera,Cuando el SOL está pegando sobre los ARBUSTOS con BASTÓN estamos frente a la llegada de la PRIMAVERA.,Cuando el SOL está pegando sobre los ARBUSTOS con BASTÓN estamos frente a la llegada de la PRIMAVERA.,2
 餐,餐,cān,,,,2
-共,共,gòng,,,,2
+共,共,gòng,juntos,Aquí vemos UNA FLOR que tiene PATAS JUNTO a ella.,Aquí vemos UNA FLOR que tiene PATAS JUNTO a ella.,2
 澡,澡,zǎo,,,,2
 凉,涼,liáng,,,,2
 椅,椅,yǐ,,,,2
@@ -909,7 +909,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 甚,甚,shèn,,,,4
 研,研,yán,investigación,ABRIMOS esta PIEDRA para INVESTIGARLA.,ABRIMOS esta PIEDRA para INVESTIGARLA.,4
 究,究,jiū,,,,4
-供,供,gōng,,,,4
+供,供,gōng,"ofrecer, suministrar",Estas PERSONAS JUNTAS se OFRECEN suministros la una a la otra.,Estas PERSONAS JUNTAS se OFRECEN suministros la una a la otra.,4
 统,統,tǒng,,,,4
 括,括,kuò,,,,4
 获,獲穫,huò,,,,4
@@ -931,7 +931,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 置,置,zhì,,,,4
 治,治,zhì,,,,4
 疗,療,liáo,sanar,COMPLETAMOS esta ENFERMEDAD para luego SANAR.,QUEMAMOS esta ENFERMEDAD para SANAR esta persona.,4
-构,構,gòu,,,,4
+构,構,gòu,construir,MARCAMOS este ÁRBOL para usarlo para CONSTRUIR.,OTRA VEZ en UN POZO con este ÁRBOL CONSTRUIMOS.,4
 引,引,yǐn,,,,4
 盘,盤,pán,,,,4
 企,企,qǐ,,,,4
@@ -1028,7 +1028,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 培,培,péi,,,,4
 冰,冰,bīng,,,,4
 县,縣,xiàn,,,,4
-抽,抽,chōu,,,,4
+抽,抽,chōu,"extraer, fumar",El MOTIVO por el cual usamos las MANOS aquí es porque vamos a EXTRAER.,El MOTIVO por el cual usamos las MANOS aquí es porque vamos a EXTRAER.,4
 码,碼,mǎ,,,,4
 替,替,tì,,,,4
 俩,倆,liǎ,,,,4
@@ -1251,7 +1251,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 革,革,gé,,,,5
 剩,剩,shèng,,,,5
 尤,尤,yóu,,,,5
-届,屆,jiè,,,,5
+届,屆,jiè,"llegar, sesión",El MOTIVO por el cual este cuerpo en CADÁVER se ha LLEGADO a transformar aún no lo sabemos.,-,5
 偷,偷,tōu,,,,5
 乏,乏,fá,,,,5
 呆,呆,dāi,,,,5
@@ -1551,7 +1551,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 杆,杆桿,gān,,,,6
 扣,釦扣,kòu,,,,6
 踢,踢,tī,,,,6
-异,異,yì,,,,6
+异,異,yì,diferente,Con DOS MANOS analizamos dos SERPIENTES para comprobar que son DIFERENTES.,Al mirar estos ARROZALES JUNTOS nos podemos dar cuenta de que son DIFERENTES.,6
 混,混,hùn,,,,6
 搭,搭,dā,,,,6
 氛,氛,fēn,,,,6
@@ -1574,7 +1574,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 屏,屏,píng,,,,6
 践,踐,jiàn,,,,6
 拨,撥,bō,,,,6
-暴,暴,bào,,,,6
+暴,暴,bào,violencia,El SOL JUNTO al AGUA se necesitan pero sin VIOLENCIA.,El SOL JUNTO al AGUA se necesitan pero sin VIOLENCIA.,6
 蹈,蹈,dǎo,,,,6
 佛,髴佛彿,fú,,,,6
 跌,跌,diē,,,,6
@@ -1625,7 +1625,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 踏,踏,tà,,,,6
 蹲,蹲,dūn,,,,6
 胞,胞,bāo,,,,6
-袖,袖,xiù,,,,6
+袖,袖,xiù,manga,El MOTIVO por el que usamos esta ROPA es por su MANGA.,El MOTIVO por el que usamos esta ROPA es por su MANGA.,6
 牵,牽,qiān,,,,6
 抵,抵,dǐ,,,,6
 倾,傾,qīng,,,,6
@@ -1699,7 +1699,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 尖,尖,jiān,,,,6
 炮,炮,pào,,,,6
 肝,肝,gān,,,,6
-港,港,gǎng,,,,6
+港,港,gǎng,puerto,"Cuando veo que viene una INUNDACIÓN, rápidamente YO huyo lejos de este PUERTO.","Cuando veo que viene una INUNDACIÓN, rápidamente YO huyo lejos de este PUERTO.",6
 酱,醬,jiàng,,,,6
 耗,耗,hào,,,,6
 肿,腫,zhǒng,,,,6
@@ -1731,7 +1731,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 纵,縱,zòng,,,,6
 懒,懶,lǎn,,,,6
 牢,牢,láo,,,,6
-洪,洪,hóng,,,,6
+洪,洪,hóng,inundación,Cuando AGUAS se JUNTAN se puede producir una INUNDACIÓN.,Cuando AGUAS se JUNTAN se puede producir una INUNDACIÓN.,6
 坡,坡,pō,,,,6
 悬,懸,xuán,,,,6
 撤,撤,chè,,,,6
@@ -1895,7 +1895,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 飘,飄,piāo,,,,7
 戚,戚,qī,,,,7
 慈,慈,cí,,,,7
-宙,宙,zhòu,,,,7
+宙,宙,zhòu,tiempo,El MOTIVO por el que nos quedamos en CASA es para ahorrar TIEMPO y espacio.,El MOTIVO por el que nos quedamos en CASA es para ahorrar TIEMPO y espacio.,7
 兹,茲,zī,,,,7
 抹,抹,mǒ,,,,7
 芯,芯,xīn,,,,7
@@ -2004,7 +2004,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 谜,謎,mí,,,,7
 磅,磅,bàng,,,,7
 谍,諜,dié,,,,7
-恭,恭,gōng,,,,7
+恭,恭,gōng,respeto,El CORAZÓN debe estar siempre JUNTO al RESPETO.,El CORAZÓN debe estar siempre JUNTO al RESPETO.,7
 歧,歧,qí,,,,7
 酬,酬,chóu,,,,7
 魔,魔,mó,,,,7
@@ -2689,7 +2689,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 贬,貶,biǎn,,,,9
 躯,軀,qū,,,,9
 夷,夷,yí,,,,9
-轴,軸,zhóu,,,,9
+轴,軸,zhóu,eje,El MOTIVO por el que usamos este VEHÍCULO es porque tiene buenos EJES.,El MOTIVO por el que usamos este VEHÍCULO es porque tiene buenos EJES.,9
 涤,滌,dí,,,,9
 赤,赤,chì,,,,9
 滞,滯,zhì,,,,9
@@ -2894,7 +2894,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 拙,拙,zhuō,,,,9
 耸,聳,sǒng,,,,9
 涛,濤,tāo,,,,9
-笛,笛,dí,,,,9
+笛,笛,dí,silbato,El MOTIVO por el que usamos este BAMBÚ es para usarlo como SILBATO.,El MOTIVO por el que usamos este BAMBÚ es para usarlo como SILBATO.,9
 骏,駿,jùn,,,,9
 兢,兢,jīng,,,,9
 贞,貞,zhēn,,,,9
@@ -3019,3 +3019,4 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 俸,俸,fèng,salario,Toda PERSONA ESTIMA su SALARIO.,Toda PERSONA ESTIMA su SALARIO.,-
 襄,襄,xiāng,"ayudar, asistir","Brindando ROPA, buscando agua en UN POZO, y alimentando estas dos BOCAS en esta CASA se brinda ASISTENCIA.","Brindando ROPA, buscando agua en UN POZO, y alimentando estas dos BOCAS en esta CASA se brinda ASISTENCIA.",-
 酉,酉,yǒu,"pájaro, alcohol",Desde el OESTE viene UN PÁJARO.,Desde el OESTE viene UN PÁJARO.,-
+寅,寅,yín,tigre,UN MOTIVO para no meter las PATAS en esta CASA es porque vive un TIGRE.,UN MOTIVO para no meter las PATAS en esta CASA es porque vive un TIGRE.,-
