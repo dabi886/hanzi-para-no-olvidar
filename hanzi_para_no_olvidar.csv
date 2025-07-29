@@ -96,7 +96,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 跟,跟,gēn,,,,1
 孩,孩,hái,,,,1
 子,子,zi,niño,Pictograma de un NIÑO semi envuelto en una bolsa para bebé.,Pictograma de un NIÑO semi envuelto en una bolsa para bebé.,1
-高,高,gāo,alto,Este EXTRATERRESTRE se ha puesto esta CHISTERA y exclamó por su BOCA sorprendido por verse más ALTO con ella puesta.,Este EXTRATERRESTRE se ha puesto esta CHISTERA y exclamó por su BOCA sorprendido por verse más ALTO con ella puesta.,1
+高,高,gāo,alto,Estas dos BOCAS pertenecen a dos personas con CAPUCHA y CHISTERA muy ALTOS ambos.,Estas dos BOCAS pertenecen a dos personas con CAPUCHA y CHISTERA muy ALTOS ambos.,1
 日,日,rì,"día, sol","Pictograma del sol, el cual marca el transcurso de nuestros DÍAS.","Pictograma del sol, el cual marca el transcurso de nuestros DÍAS.",1
 觉,覺,jué,,,,1
 得,得,dé,ganancia,Cuando VAMOS siempre al AMANECER a nuestro trabajo grande será la MEDIDA de nuestra GANANCIA.,Cuando VAMOS siempre al AMANECER a nuestro trabajo grande será la MEDIDA de nuestra GANANCIA.,1
@@ -315,7 +315,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 更,更,gèng,,,,2
 它,它,tā,,,,2
 只,隻秖只,zhǐ,,,,2
-向,嚮向,xiàng,,,,2
+向,嚮向,xiàng,hacia,Con una CAPUCHA y una GOTA de agua esta BOCA comienza su camino HACIA hablar.,Con una CAPUCHA y una GOTA de agua esta BOCA comienza su camino HACIA hablar.,2
 该,該,gāi,,,,2
 位,位,wèi,,,,2
 才,纔才,cái,talento,Estos DEDOS poseen un gran TALENTO.,Estos DEDOS poseen un gran TALENTO.,2
@@ -414,7 +414,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 座,座,zuò,sentarse,"A la hora de SENTARSE, un lugar AMPLIO es el mejor lugar para SENTARSE.","A la hora de SENTARSE, un lugar AMPLIO es el mejor lugar para SENTARSE.",2
 市,市,shì,,,,2
 换,換,huàn,,,,2
-银,銀,yín,,,,2
+银,銀,yín,plata,Este FIRME METAL es PLATA.,Este FIRME METAL es PLATA.,2
 句,句,jù,frase,Las palabras EMPAQUETADAS que salen de la BOCA son una FRASE.,Las palabras EMPAQUETADAS que salen de la BOCA son una FRASE.,2
 际,際,jì,,,,2
 靠,靠,kào,,,,2
@@ -439,7 +439,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 超,超,chāo,,,,2
 健,健,jiàn,,,,2
 康,康,kāng,sano,Este ESCLAVO está AMPLIAMENTE SANO.,Este ESCLAVO está AMPLIAMENTE SANO.,2
-眼,眼,yǎn,,,,2
+眼,眼,yǎn,ojo,Nuestro OJO es FIRME para apoyar la vista del otro OJO.,Nuestro OJO es FIRME para apoyar la vista del otro OJO.,2
 清,清,qīng,,,,2
 楚,楚,chǔ,,,,2
 倒,倒,dào,,,,2
@@ -669,7 +669,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 拍,拍,pāi,,,,3
 金,金,jīn,,,,3
 管,管,guǎn,,,,3
-根,根,gēn,,,,3
+根,根,gēn,raíz,Este ÁRBOL tiene FIRMES RAÍCES.,Este ÁRBOL tiene FIRMES RAÍCES.,3
 容,容,róng,,,,3
 易,易,yì,,,,3
 程,程,chéng,,,,3
@@ -803,7 +803,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 升,升,shēng,,,,3
 旧,舊,jiù,,,,3
 及,及,jí,,,,3
-桥,橋,qiáo,,,,3
+桥,橋,qiáo,puente,Con este ALTO ÁRBOL construimos un PUENTE.,Con este ALTO ÁRBOL construimos un PUENTE.,3
 香,香,xiāng,,,,3
 烈,烈,liè,,,,3
 评,評,píng,,,,3
@@ -819,7 +819,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 防,防,fáng,,,,3
 麻,麻,má,cáñamo,En esta AMPLIA ARBOLEDA se planta CÁÑAMO.,En esta AMPLIA ARBOLEDA se planta CÁÑAMO.,3
 烦,煩,fán,,,,3
-退,退,tuì,,,,3
+退,退,tuì,retiro,Nos mantenemos FIRMES en nuestro CAMINO hasta el momento del RETIRO.,Nos mantenemos FIRMES en nuestro CAMINO hasta el momento del RETIRO.,3
 猪,豬,zhū,,,,3
 似,似,shì,,,,3
 古,古,gǔ,viejo,Esta BOCA ya tiene una CRUZ porque es muy VIEJA.,Esta BOCA ya tiene una CRUZ porque es muy VIEJA.,3
@@ -880,7 +880,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 泳,泳,yǒng,,,,3
 夫,夫,fū,,,,3
 吵,吵,chǎo,,,,3
-乡,鄉,xiāng,,,,3
+乡,鄉,xiāng,tierra natal,Dos ANZUELOS y un BASTÓN nos recuerdan nuestra TIERRA NATAL.,-,3
 沙,沙,shā,,,,3
 华,華,huá,,,,3
 币,幣,bì,,,,3
@@ -951,7 +951,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 倍,倍,bèi,,,,4
 授,授,shòu,,,,4
 巨,巨,jù,,,,4
-既,既,jì,,,,4
+既,既,jì,previamente,Ahora comemos FIRMEMENTE porque nos hemos ATRAGANTADO PREVIAMENTE.,Ahora comemos FIRMEMENTE porque nos hemos ATRAGANTADO PREVIAMENTE.,4
 稳,穩,wěn,,,,4
 抱,抱,bào,,,,4
 丈,丈,zhàng,,,,4
@@ -965,7 +965,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 阶,階,jiē,,,,4
 秀,秀,xiù,,,,4
 依,依,yī,,,,4
-即,即,jí,,,,4
+即,即,jí,instantáneo,Este FIRME SELLO es de pegado INSTANTÁNEO.,Este FIRME SELLO es de pegado INSTANTÁNEO.,4
 益,益,yì,,,,4
 冲,沖衝,chōng,,,,4
 兄,兄,xiōng,,,,4
@@ -994,7 +994,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 松,鬆松,sōng,,,,4
 权,權,quán,,,,4
 户,戶,hù,,,,4
-良,良,liáng,,,,4
+良,良,liáng,bueno,Aunque sea una GOTA de FIRMEZA es algo BUENO.,Aunque sea una GOTA de FIRMEZA es algo BUENO.,4
 居,居,jū,residir,Este VIEJO CADÁVER RESIDE en este lugar de descanso.,Este VIEJO CADÁVER RESIDE en este lugar de descanso.,4
 迅,迅,xùn,,,,4
 减,減,jiǎn,,,,4
@@ -1016,7 +1016,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 临,臨,lín,,,,4
 避,避,bì,,,,4
 官,官,guān,,,,4
-限,限,xiàn,,,,4
+限,限,xiàn,límite,Nos mantenemos FIRMES para no exceder la CÚSPIDE de los LÍMITES.,Nos mantenemos FIRMES para no exceder la CÚSPIDE de los LÍMITES.,4
 戴,戴,dài,,,,4
 操,操,cāo,,,,4
 躺,躺,tǎng,,,,4
@@ -1182,7 +1182,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 耳,耳,ěr,,,,4
 咸,咸鹹,xián,,,,4
 尾,尾,wěi,,,,4
-尚,尚,shàng,estimado,Este PEQUEÑO EXTRATERRESTRE es muy ESTIMADO en su comunidad.,Este PEQUEÑO EXTRATERRESTRE es muy ESTIMADO en su comunidad.,4
+尚,尚,shàng,estimado,Esta PEQUEÑA BOCA y CAPUCHA son muy ESTIMADAS.,Esta PEQUEÑA BOCA y CAPUCHA son muy ESTIMADAS.,4
 赏,賞,shǎng,,,,4
 劲,勁,jìn,,,,4
 袜,襪,wà,,,,4
@@ -1292,7 +1292,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 聪,聰,cōng,,,,5
 毒,毒,dú,,,,5
 彼,彼,bǐ,,,,5
-沟,溝,gōu,,,,5
+沟,溝,gōu,surco,MARCAMOS el AGUA de este SURCO.,OTRA VEZ en UN POZO el AGUA se escapa por un SURCO.,5
 乘,乘,chéng,,,,5
 润,潤,rùn,,,,5
 骂,罵,mà,,,,5
@@ -1301,7 +1301,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 厉,厲,lì,,,,5
 私,私,sī,,,,5
 硬,硬,yìng,,,,5
-恨,恨,hèn,,,,5
+恨,恨,hèn,"odio, rencor",Somos FIRME ante la idea de en el CORAZÓN no tener ODIO.,Somos FIRME ante la idea de en el CORAZÓN no tener ODIO.,5
 搜,搜,sōu,,,,5
 索,索,suǒ,,,,5
 劳,勞,láo,,,,5
@@ -2016,7 +2016,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 翘,翹,qiào,,,,7
 舱,艙,cāng,,,,7
 拽,拽,zhuāi,,,,7
-爵,爵,jué,,,,7
+爵,爵,jué,nobleza,Nuestros OJOS son FIRMES para MEDIR las UÑAS de la NOBLEZA.,Nuestros OJOS son FIRMES para MEDIR las UÑAS de la NOBLEZA.,7
 毯,毯,tǎn,,,,7
 掩,掩,yǎn,,,,7
 撕,撕,sī,,,,7
@@ -2113,7 +2113,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 钞,鈔,chāo,,,,7
 舔,舔,tiǎn,,,,7
 嚼,嚼,jué,,,,7
-羞,羞,xiū,,,,7
+羞,羞,xiū,vergüenza,Este BUEY oculta su enamoramiento por esta OVEJA porque le da VERGÜENZA.,Este BUEY oculta su enamoramiento por esta OVEJA porque le da VERGÜENZA.,7
 钓,釣,diào,,,,7
 炫,炫,xuàn,,,,7
 奴,奴,nú,,,,7
@@ -2426,7 +2426,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 拣,揀,jiǎn,,,,8
 剔,剔,tī,,,,8
 捍,捍,hàn,,,,8
-殿,殿,diàn,,,,8
+殿,殿,diàn,palacio,Las ARMAS y los CADÁVERES se guardian JUNTOS en este PALACIO.,Las ARMAS y los CADÁVERES se guardian JUNTOS en este PALACIO.,8
 敷,敷,fū,,,,8
 姥,姥,lǎo,,,,8
 俄,俄,é,,,,8
@@ -2449,7 +2449,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 呛,嗆,qiāng,,,,8
 搁,擱,gē,,,,8
 溅,濺,jiàn,,,,8
-恳,懇,kěn,,,,8
+恳,懇,kěn,sincero,Quien tiene el CORAZÓN FIRME es siempre SINCERO.,Quien tiene el CORAZÓN FIRME como un ZORRILLO es siempre SINCERO.,8
 衅,釁,xìn,,,,8
 俘,俘,fú,,,,8
 虏,虜,lǔ,,,,8
@@ -2534,7 +2534,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 膛,膛,táng,,,,8
 煽,煽,shān,,,,8
 岳,嶽岳,yuè,,,,8
-矫,矯,jiǎo,,,,8
+矫,矯,jiǎo,rectificar,Cuando lanzamos FLECHAS en lo ALTO siempre debemos RECTIFICAR la posición.,Cuando lanzamos FLECHAS en lo ALTO siempre debemos RECTIFICAR la posición.,8
 爪,爪,zhǎo,,,,8
 纽,紐,niǔ,,,,8
 囱,囪,cōng,,,,8
@@ -2732,7 +2732,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 岂,豈,qǐ,,,,9
 迭,迭,dié,,,,9
 懈,懈,xiè,,,,9
-乔,喬,qiáo,,,,9
+乔,喬,qiáo,alto,Con dos BASTONES intenta alcanzar el CIELO pero es imposible porque es muy ALTO.,Estas dos BOCAS con CAPUCHA miran al CIELO y exclaman lo ALTO que es.,9
 馅,餡,xiàn,,,,9
 沽,沽,gū,,,,9
 瑞,瑞,ruì,,,,9
@@ -2941,7 +2941,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 嬉,嬉,xī,,,,9
 钧,鈞,jūn,,,,9
 砂,砂,shā,,,,9
-娇,嬌,jiāo,,,,9
+娇,嬌,jiāo,atractivo,Esta ALTA MUJER tiene un gran ATRACTIVO.,Esta ALTA MUJER tiene un gran ATRACTIVO.,9
 侠,俠,xiá,,,,9
 岭,嶺,lǐng,,,,9
 雁,雁,yàn,,,,9
@@ -3020,3 +3020,4 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 襄,襄,xiāng,"ayudar, asistir","Brindando ROPA, buscando agua en UN POZO, y alimentando estas dos BOCAS en esta CASA se brinda ASISTENCIA.","Brindando ROPA, buscando agua en UN POZO, y alimentando estas dos BOCAS en esta CASA se brinda ASISTENCIA.",-
 酉,酉,yǒu,"pájaro, alcohol",Desde el OESTE viene UN PÁJARO.,Desde el OESTE viene UN PÁJARO.,-
 寅,寅,yín,tigre,UN MOTIVO para no meter las PATAS en esta CASA es porque vive un TIGRE.,UN MOTIVO para no meter las PATAS en esta CASA es porque vive un TIGRE.,-
+艮,艮,gěn,firme,Para protegernos del SOL nuestra ROPA se mantiene FIRME.,Para protegernos del SOL nuestra ROPA se mantiene FIRME.,-
