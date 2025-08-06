@@ -11,7 +11,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 个,個,gè,individual,Este BASTÓN y este PARAGUAS son INDIVIDUALES.,"La PERSONA de carácter DURO, es mejor que tenga todas sus cosas INDIVIDUALES.",1
 和,和,hé,,,,1
 不,不,bù,no,"A esta PERSONA desde el TECHO le cayó una GOTA al despertar, fue un despertar NEGATIVO.","A esta PERSONA desde el TECHO le cayó una GOTA al despertar, fue un despertar NEGATIVO.",1
-就,就,jiù,,,,1
+就,就,jiù,posicionarse,Esta persona con habilidades ESPECIALES busca en la CAPITAL POSICIONARSE.,Esta persona con habilidades ESPECIALES busca en la CAPITAL POSICIONARSE.,1
 也,也,yě,también,No solamente dos ANZUELOS sino un BASTÓN TAMBIÉN es necesario en esta caja de herramientas.,No solamente dos ANZUELOS sino un BASTÓN TAMBIÉN es necesario en esta caja de herramientas.,1
 人,人,rén,persona,"Este pictograma de una PERSONA, representa a alguien caminando hacia afuera, hacia la derecha.","Este pictograma de una PERSONA, representa a alguien caminando hacia afuera, hacia la derecha.",1
 你,你,nǐ,,,,1
@@ -35,7 +35,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 中,中,zhōng,,,,1
 年,秊年,nián,año,Con UN BASTÓN de celebración desde el MEDIODÍA esperamos el AÑO nuevo.,Con UN BASTÓN de celebración desde el MEDIODÍA esperamos el AÑO nuevo.,1
 大,大,dà,grande,Pictograma de UNA PERSONA GRANDE.,Pictograma de UNA PERSONA GRANDE.,1
-给,給,gěi,,,,1
+给,給,gěi,dar,ENCAJAMOS estos HILOS decorativos en este regalo antes de DARLO.,ENCAJAMOS estos HILOS decorativos en este regalo antes de DARLO.,1
 从,從,cóng,"seguir, desde, a través",Esta PERSONA a esta otra PERSONA SIGUE.,-,1
 看,看,kàn,,,,1
 去,去,qù,ir,A nuestra TIERRA PRIVADA solamente nosotros podemos IR.,A nuestra TIERRA PRIVADA solamente nosotros podemos IR.,1
@@ -63,7 +63,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 天,天,tiān,cielo,El TECHO más GRANDE es el CIELO.,El TECHO más GRANDE es el CIELO.,1
 工,工,gōng,"técnica, trabajo","Pictograma de una viga, representación de la TÉCNICA de construcción.","Pictograma de una viga, representación de la TÉCNICA de construcción.",1
 作,作,zuò,hacer,Esta PERSONA de manera REPENTINA comienza a HACER cosas.,Esta PERSONA de manera REPENTINA comienza a HACER cosas.,1
-家,家,jiā,,,,1
+家,家,jiā,"casa, familia",La CASA de los CERDOS es la mejor CASA en este lugar.,La CASA de los CERDOS es la mejor CASA en este lugar.,1
 再,再,zài,,,,1
 时,時,shí,,,,1
 间,間,jiān,intervalo,"La salida del SOL es la PUERTA, es decir, el inicio, del INTERVALO del día.","La salida del SOL es la PUERTA, es decir, el inicio, del INTERVALO del día.",1
@@ -93,7 +93,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 二,二,èr,dos,En la escritura china y japonesa el número DOS se representa con dos trazos horizontales.,En la escritura china y japonesa el número DOS se representa con dos trazos horizontales.,1
 吗,嗎,ma,,,,1
 真,真,zhēn,,,,1
-跟,跟,gēn,,,,1
+跟,跟,gēn,"con, y",Siempre tenemos los PIES FIRMES cuando vamos CON la compañía correcta.,Siempre tenemos los PIES FIRMES cuando vamos CON la compañía correcta.,1
 孩,孩,hái,,,,1
 子,子,zi,niño,Pictograma de un NIÑO semi envuelto en una bolsa para bebé.,Pictograma de un NIÑO semi envuelto en una bolsa para bebé.,1
 高,高,gāo,alto,Estas dos BOCAS pertenecen a dos personas con CAPUCHA y CHISTERA muy ALTOS ambos.,Estas dos BOCAS pertenecen a dos personas con CAPUCHA y CHISTERA muy ALTOS ambos.,1
@@ -104,12 +104,12 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 话,話,huà,hablar,De la LENGUA salen PALABRAS cuando HABLAMOS.,De la LENGUA salen PALABRAS cuando HABLAMOS.,1
 钱,錢,qián,,,,1
 开,開,kāi,abrir,Con UNA o con las DOS MANOS ABRIMOS lo que sea.,Con UNA o con las DOS MANOS ABRIMOS lo que sea.,1
-岁,歲,suì,,,,1
+岁,歲,suì,"edad, año",Para ir a la MONTAÑA en la NOCHE hay que tener un mínimo de EDAD.,-,1
 吃,吃,chī,comer,Cuando nuestra BOCA nos PIDE algo es momento de COMER.,Cuando nuestra BOCA nos PIDE algo es momento de COMER.,1
 身,身,shēn,,,,1
 重,重,zhòng,,,,1
 爱,愛,ài,amor,Se nota hasta en nuestras UÑAS cuando en nuestra vida con CORONA está reinando la AMISTAD y sobre todo el AMOR.,"Se nota en nuestras PIERNAS ANDANTES, en nuestro CORAZÓN y hasta en nuestras UÑAS cuando en nuestra vida con CORONA está reinando el AMOR.",1
-国,國,guó,,,,1
+国,國,guó,país,Una JOYA que está ENCERRADA dentro de las fronteras es como algunos perciben a su PAÍS.,-,1
 买,買,mǎi,comprar,Este ANZUELO decorativo para colocar en la CABEZA lo COMPRAMOS.,"Cuando tenemos DINERO, todo lo que ven nuestros OJOS lo podemos COMPRAR.",1
 号,號,hào,,,,1
 喜,喜,xǐ,,,,1
@@ -143,7 +143,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 友,友,yǒu,amistad,"Aquella persona que está OTRA VEZ y otra vez A TU LADO, es una gran AMISTAD.","Aquella persona que está OTRA VEZ y otra vez A TU LADO, es una gran AMISTAD.",1
 拿,拿,ná,,,,1
 路,路,lù,,,,1
-外,外,wài,,,,1
+外,外,wài,exterior,"Cuando se usa una VARITA en la NOCHE, lo mejor es hacerlo en el EXTERIOR.","Cuando se usa una VARITA en la NOCHE, lo mejor es hacerlo en el EXTERIOR.",1
 放,放,fàng,liberar,Este CAPATAZ le indica la DIRECCIÓN a su esclavo y lo LIBERA.,Este CAPATAZ le indica la DIRECCIÓN a su esclavo y lo LIBERA.,1
 学,學,xué,estudio,Este NIÑO está en el EDIFICIO ESCOLAR ESTUDIANDO.,-,1
 校,校,xiào,,,,1
@@ -161,7 +161,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 门,門,mén,puerta,Pictograma de una PUERTA.,Pictograma de una PUERTA.,1
 八,八,bā,ocho,"El carácter de OCHO está formado por una línea corta seguida por otra línea un poco más larga, inclinada hacia la primera pero sin llegar a tocarla.","El carácter de OCHO está formado por una línea corta seguida por otra línea un poco más larga, inclinada hacia la primera pero sin llegar a tocarla.",1
 七,七,qī,siete,"A la hora de ir a pescar, no llevo UN sólo ANZUELO, sino que llevo SIETE.","A la hora de ir a pescar, no llevo UN sólo ANZUELO, sino que llevo SIETE.",1
-送,送,sòng,,,,1
+送,送,sòng,enviar,Antes de que el CAMINO CIERRE debemos ENVIAR esto.,Antes de que el CAMINO CIERRE debemos ENVIAR esto.,1
 花,花,huā,,,,1
 第,第,dì,ordinal,NO contamos estos BAMBÚES de manera ORDINAL.,NO contamos estos BAMBÚES de manera ORDINAL.,1
 块,塊,kuài,"pedazo, dinero",Hemos DECIDIDO con esta TIERRA formar un PEDAZO de dinero.,Este DEMONIO formó con esta TIERRA un gran PEDAZO que usará para sus maldades.,1
@@ -237,7 +237,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 忙,忙,máng,ocupado,Todas las demás cosas FALLECEN cuando nuestro CORAZÓN está OCUPADO en algo.,Todas las demás cosas FALLECEN cuando nuestro CORAZÓN está OCUPADO en algo.,1
 考,攷考,kǎo,,,,1
 南,南,nán,,,,1
-关,關,guān,,,,1
+关,關,guān,"cerrar, relación",Este CIELO con unos CUERNOS gigantes en la puerta está CERRADO.,-,1
 同,仝同,tóng,,,,1
 衣,衣,yī,,,,1
 服,服,fú,,,,1
@@ -265,7 +265,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 旁,旁,páng,,,,1
 京,京,jīng,capital,PEQUEÑAS son las BOCAS y las CHISTERAS en esta CAPITAL.,PEQUEÑAS son las BOCAS y las CHISTERAS en esta CAPITAL.,1
 页,頁,yè,página,"Imaginemos una ALMEJA como si fuera un libro de UNA página. Abrimos el libro, y encontramos una única GOTA de sabiduría, la única PÁGINA.","Imaginemos una ALMEJA como si fuera un libro de UNA página. Abrimos el libro, y encontramos una única GOTA de sabiduría, la única PÁGINA.",1
-贵,貴,guì,,,,1
+贵,貴,guì,"caro, noble",Esta ALMEJA DENTRO tiene UNA cosa muy CARA.,Esta ALMEJA DENTRO tiene UNA cosa muy CARA.,1
 面,面麵,miàn,,,,1
 哥,哥,gē,hermano mayor,Todo es POSIBLE y nuevamente POSIBLE para este HERMANO MAYOR.,Todo es POSIBLE y nuevamente POSIBLE para este HERMANO MAYOR.,1
 茶,茶,chá,te,Estos ÁRBOLES con PARAGUAS son para proteger las FLORES del TÉ en esta plantación.,Estos ÁRBOLES con PARAGUAS son para proteger las FLORES del TÉ en esta plantación.,1
@@ -328,7 +328,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 活,活,huó,,,,2
 发,髮發,fā,"cabello, salida",Con dos GOTAS de agua a nuestro AMIGO limpiamos el PELO.,"El mejor AMIGO de las mujeres es el PELO LARGO cuando se trata de CABELLO. Con nuestra ARMA que es un ARCO, en mano, dejamos PISADAS porque comenzamos la SALIDA.",2
 应,應,yīng,,,,2
-成,成,chéng,,,,2
+成,成,chéng,convertirse,Esta ALABARDA en una ESPADA se ha CONVERTIDO.,Esta ALABARDA en una ESPADA se ha CONVERTIDO.,2
 直,直,zhí,,,,2
 定,定,dìng,,,,2
 带,帶,dài,,,,2
@@ -383,7 +383,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 努,努,nǔ,,,,2
 力,力,lì,"fuerza, poder",Pictograma de un músculo y su FUERZA.,Pictograma de un músculo y su FUERZA.,2
 心,心,xīn,,,,2
-越,越,yuè,,,,2
+越,越,yuè,adelantar,Este PERRO CORRE y ADELANTA a cualquiera.,Este PERRO CORRE y ADELANTA a cualquiera.,2
 主,主,zhǔ,,,,2
 千,千,qiān,,,,2
 段,段,duàn,,,,2
@@ -997,7 +997,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 良,良,liáng,bueno,Aunque sea una GOTA de FIRMEZA es algo BUENO.,Aunque sea una GOTA de FIRMEZA es algo BUENO.,4
 居,居,jū,residir,Este VIEJO CADÁVER RESIDE en este lugar de descanso.,Este VIEJO CADÁVER RESIDE en este lugar de descanso.,4
 迅,迅,xùn,,,,4
-减,減,jiǎn,,,,4
+减,減,jiǎn,disminuir,El AGUA SALADA DISMINUYE en este lugar.,El AGUA SALADA DISMINUYE en este lugar.,4
 挑,挑,tiāo,,,,4
 彻,徹,chè,,,,4
 怀,懷,huái,,,,4
@@ -1042,7 +1042,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 卷,卷捲,juǎn,,,,4
 译,譯,yì,,,,4
 映,映,yìng,,,,4
-贝,貝,bèi,almeja,"Con un sólo OJO, y sus PATITAS corriendo, va dando un susto a los bañistas esta ALMEJA.","Con un sólo OJO, y sus PATITAS corriendo, va dando un susto a los bañistas esta ALMEJA.",4
+贝,貝,bèi,"almeja, dinero","Con un sólo OJO, y sus PATITAS corriendo, va dando un susto a los bañistas esta ALMEJA.","Con un sólo OJO, y sus PATITAS corriendo, va dando un susto a los bañistas esta ALMEJA.",4
 逐,逐,zhú,,,,4
 渐,漸,jiàn,,,,4
 编,編,biān,,,,4
@@ -1180,7 +1180,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 宁,寧,níng,,,,4
 巾,巾,jīn,toalla,"En este BASTÓN colgamos esta CAPUCHA, que en realidad es una TOALLA.","En este BASTÓN colgamos esta CAPUCHA, que en realidad es una TOALLA.",4
 耳,耳,ěr,,,,4
-咸,咸鹹,xián,,,,4
+咸,咸鹹,xián,salado,Este PERRO en su BOCA siente sabor SALADO.,Este PERRO en su BOCA siente sabor SALADO.,4
 尾,尾,wěi,,,,4
 尚,尚,shàng,estimado,Esta PEQUEÑA BOCA y CAPUCHA son muy ESTIMADAS.,Esta PEQUEÑA BOCA y CAPUCHA son muy ESTIMADAS.,4
 赏,賞,shǎng,,,,4
@@ -1250,7 +1250,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 尊,尊,zūn,,,,5
 革,革,gé,,,,5
 剩,剩,shèng,,,,5
-尤,尤,yóu,,,,5
+尤,尤,yóu,especial,Esta GOTA COJA es ESPECIAL.,Esta GOTA COJA es ESPECIAL.,5
 届,屆,jiè,"llegar, sesión",El MOTIVO por el cual este cuerpo en CADÁVER se ha LLEGADO a transformar aún no lo sabemos.,-,5
 偷,偷,tōu,,,,5
 乏,乏,fá,,,,5
@@ -1515,10 +1515,10 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 允,允,yǔn,,,,6
 娱,娛,yú,,,,6
 佳,佳,jiā,,,,6
-藏,藏,cáng,,,,6
+藏,藏,cáng,almacén,Este ESCLAVO en este TRONCO guarda las ALABARDAS y las FLORES pues es el ALMACÉN.,Este ESCLAVO en este TRONCO guarda las ALABARDAS y las FLORES pues es el ALMACÉN.,6
 绪,緒,xù,,,,6
 剑,劍,jiàn,,,,6
-威,威,wēi,,,,6
+威,威,wēi,intimidar,No sabemos si este PERRO o esta MUJER INTIMIDAN más.,No sabemos si este PERRO o esta MUJER INTIMIDAN más.,6
 胁,脅,xié,,,,6
 素,素,sù,,,,6
 攻,攻,gōng,,,,6
@@ -1556,7 +1556,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 搭,搭,dā,,,,6
 氛,氛,fēn,,,,6
 泡,泡,pào,,,,6
-田,田,tián,arrozal,Pictograma de un ARROZAL dividido en cuatro partes y visto desde el aire.,Pictograma de un ARROZAL dividido en cuatro partes y visto desde el aire.,6
+田,田,tián,"arrozal, campo",Pictograma de un ARROZAL dividido en cuatro partes y visto desde el aire.,Pictograma de un ARROZAL dividido en cuatro partes y visto desde el aire.,6
 税,稅,shuì,,,,6
 侧,側,cè,,,,6
 遭,遭,zāo,,,,6
@@ -1672,7 +1672,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 圣,聖,shèng,,,,6
 缘,緣,yuán,,,,6
 凶,兇凶,xiōng,mal,CONTROLAMOS con una PALA a quien hace el MAL.,-,6
-灭,滅,miè,,,,6
+灭,滅,miè,destruir,Sólo UN FUEGO puede DESTRUIR lo que sea.,Tanto el FUEGO como el AGUA a este PERRO pueden DESTRUIR.,6
 扁,扁,biǎn,,,,6
 洁,潔,jié,,,,6
 惨,慘,cǎn,miseria,Aquello que no debe PARTICIPAR en el CORAZÓN es la MISERIA.,-,6
@@ -1871,7 +1871,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 厦,廈,shà,,,,7
 蛮,蠻,mán,,,,7
 诱,誘,yòu,,,,7
-惑,惑,huò,engaño,En el CORAZÓN o en la cabeza se producen los ENGAÑOS.,En el CORAZÓN o en la cabeza se producen los ENGAÑOS.,7
+惑,惑,huò,engaño,En el CORAZÓN O en la cabeza se producen los ENGAÑOS.,En el CORAZÓN O en la cabeza se producen los ENGAÑOS.,7
 哎,哎,āi,,,,7
 逮,逮,dǎi,capturar,Este ESCLAVO en este CAMINO es CAPTURADO.,Este ESCLAVO en este CAMINO es CAPTURADO.,7
 趁,趁,chèn,,,,7
@@ -2153,7 +2153,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 丛,叢,cóng,,,,7
 鲨,鯊,shā,,,,7
 堪,堪,kān,,,,7
-稽,稽,jī,,,,7
+稽,稽,jī,examinar,Para conocer el PROPÓSITO de este ESPECIAL TRIGO debemos EXAMINARLO.,Para conocer el PROPÓSITO de este ESPECIAL TRIGO debemos EXAMINARLO.,7
 磕,磕,kē,,,,7
 剖,剖,pōu,,,,7
 靴,靴,xuē,,,,7
@@ -2876,7 +2876,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 礁,礁,jiāo,,,,9
 彬,彬,bīn,,,,9
 浩,浩,hào,,,,9
-茂,茂,mào,,,,9
+茂,茂,mào,exuberante,Esta ALABARDA con FLORES es EXUBERANTE.,Esta ALABARDA con FLORES es EXUBERANTE.,9
 甸,甸,diān,,,,9
 赡,贍,shàn,,,,9
 熙,熙,xī,,,,9
@@ -2979,7 +2979,7 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 澳,澳,ào,,,,9
 秦,秦,qín,,,,9
 吕,呂,lǚ,,,,9
-韩,韓,hán,corea,Donde limpian CUERO con ROCÍO es en COREA.,Donde limpian CUERO con ROCÍO es en COREA.,9
+韩,韓,hán,corea,Donde son una EMINENCIA para crear CUERO es en COREA.,Donde son una EMINENCIA para crear CUERO es en COREA.,9
 孟,孟,mèng,,,,9
 宋,宋,sòng,,,,9
 蜀,蜀,shǔ,,,,9
@@ -3030,3 +3030,6 @@ hanzi_simplified,hanzi_traditional,pinyin,meaning,mnemonic_simplified,mnemonic_t
 戸,戸,hù,puerta,Aquí hay UN CADÁVER en esta PUERTA.,Aquí hay UN CADÁVER en esta PUERTA.,-
 叚,叚,jiǎ,falso,OTRA VEZ nos quisieron vender CAJAS con DOS BASTONES FALSOS.,OTRA VEZ nos quisieron vender CAJAS con DOS BASTONES FALSOS.,-
 芋,芋,yù,patata,EN el mismo lugar que las FLORES plantamos PATATAS.,EN el mismo lugar que las FLORES plantamos PATATAS.,-
+豕,豕,shǐ,cerdo,Pictograma de un CERDO.,Pictograma de un CERDO.,-
+戌,戌,xū,perro,Con UNA ALABARDA siempre está este PERRO.,Con UNA ALABARDA siempre está este PERRO.,-
+丬,爿,qiáng,tronco,Pictograma de un TRONCO.,Pictograma de un TRONCO.,-
